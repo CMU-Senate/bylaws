@@ -215,7 +215,7 @@ $if(institute)$
 \providecommand{\institute}[1]{}
 \institute{$for(institute)$$institute$$sep$ \and $endfor$}
 $endif$
-\date{\vspace{-.5in}$date$}
+\date{\small{\vspace{-.5in}$date$}}
 
 \begin{document}
 $if(title)$
