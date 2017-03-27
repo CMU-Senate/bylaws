@@ -241,6 +241,12 @@ A.  The Chair of Student Senate and the Chair of each Student Senate standing co
 
 # Article XI. Amendment.
 
+A.  To be considered for approval, an amendment to these bylaws must be presented in writing at a regular meeting of Student Senate.
+#.  Any proposed amendment to these bylaws must be put to a vote at a regular meeting of Student Senate one (1) to three (3) weeks after its initial presentation to Student Senate.
+    1.  To be adopted, the amendment must receive a two-thirds (2/3) supermajority vote of approval at this regular Student Senate meeting.
+    #.  Student Senate may instead put the proposed amendment to a vote at the same meeting as its initial presentation on the basis of a three-fourths (3/4) supermajority vote in favor of such action. In such cases it is required that the proposed amendment be provided, via e-mail, to Student Senate at least one (1) week prior to its initial presentation to Senate.
+#.  A record of all amendments to these bylaws must be kept, by the Constitutional Advisor, as an appendix to these bylaws.
+
 # Appendix: Amendments to the Student Senate Bylaws
 
 
