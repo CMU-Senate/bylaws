@@ -27,7 +27,7 @@ A.  The _Activities Board_ refers to the standing committee of Student Governmen
     #.  Tepper School of Business;
     #.  Bachelor of Humanities and Arts, Bachelor of Sciences and Arts, Sciences and Humanities Scholars Program, Bachelor of Computer Science and Arts, and Miscellaneous Students.
 #.  Every member of the undergraduate student body is classified as a constituent in their home college at Carnegie Mellon University, as specified by the Carnegie Mellon University Registrar.
-    #.  Any member of the undergraduate student body who does not fall under the auspices of the constituencies listed shall be classified as a Miscellaneous Student.
+    1.  Any member of the undergraduate student body who does not fall under the auspices of the constituencies listed shall be classified as a Miscellaneous Student.
 #.  The Elections Board refers to the standing committee of Student Government, established in the Carnegie Mellon University _Student Body Constitution_, to oversee the annual Student Government Executive and Student Senate elections.
 #.  Financial Probation is a form of probation for Student Government Recognized organizations, and is established in the Carnegie Mellon University _Student Body Constitution_ and _Student Government Fiscal Policy_
 #.  A full session of Student Senate shall extend from the first regular meeting of Student Senate following the ratification of the Student Senate Election results until the adjournment of the meeting at which the following year’s Student Senate Election results are successfully ratified.
@@ -221,7 +221,154 @@ A.  All Student Senate financial activities are constrained by the Carnegie Mell
 
 # Article VI. Officers.
 
+A.  The officers of Student Senate shall be the Student Senate Chair, the Student Senate Vice Chair (if nominated), the Chair of each Student Senate standing committee, the Sergeant at Arms, and the Student Senate Clerk.
+    1.  Except for the Sergeant at Arms and the Student Senate Clerk, all officers of Student Senate must be Student Senators.
+    #.  The Sergeant at Arms must be a Student Senator or a Member-at-Large.
+    #.  The Student Senate Clerk must not be a Student Senator or a Member-at-Large.
+    #.  Except for the Student Senate Clerk and the Student Senate Vice Chair, all officers of Student Senate shall be elected according to the procedure established in these bylaws.
+    #.  The Student Senate Clerk shall be hired by the Office of Student Activities in consultation with the Chair of Student Senate.
+    #.  The Student Senate Chair may nominate a candidate to serve as Student Senate Vice Chair. This nomination must be approved by a majority vote at a regular Student Senate meeting.
+#.  The Chair and Vice Chair of Student Senate and the Chairs of the Student Senate standing committees form the Executive Committee of Student Senate. The Vice Chair shall be a non-voting member of this committee.
+#.  Terms of Service:
+    #.  The term of service for all elected Officers of Student Senate shall be from the time of their election until the end of the half session for which they are elected to serve.
+    #.  The term of service for the Student Senate Vice Chair shall be from the time that Student Senate approves their nomination until the end of the term of service for the Student Senate Chair.
+    #.  The term of service for the Student Senate Clerk shall be determined by the terms of employment established upon the hiring of the Student Senate Clerk.
+#.  Impeachment of Officers:
+    #.  To initiate impeachment proceedings for any member of the Student Government Executive Committee, a petition signed by at least one-half (1/2) of the seated Student Senators shall be presented to the Student Senate Chair asking for removal of an elected official from that official’s elected post.
+        a.  If the Student Senate Chair is named in the impeachment petition, it shall be presented to the remaining members of the Student Senate Executive Committee. In such cases, the remaining members of the Student Senate Executive Committee shall choose a representative to preside over the impeachment process.
+    #.  At the regular Student Senate meeting immediately following presentation of the petition, Student Senate shall vote on removal of the official. Removal of that officer requires a two-thirds (2/3) supermajority vote of approval from the Student Senators present at that meeting.
+    #.  Upon a successful vote to remove a member of the Student Senate Executive Committee from office, that office shall immediately be declared vacant.
+#.  Resignation:
+    1.  The Chair of Student Senate may resign from his or her office by submitting notice of that resignation, via e-mail, to the Student Senate Executive Committee.
+    #.  The Student Senate Clerk, Sergeant at Arms, or any Standing Internal Committee Chair may resign from their office by submitting notice of their resignation, via e-mail, to the Chair of Student Senate.
+        a.  The Student Senate Clerk is expected to provide three (3) weeks’ notice of his or her resignation.
+#.  Vacancy:
+    1.  The Student Senate Executive Committee must notify Student Senate within three (3) days of the removal or resignation of an elected officer.
+#.  Election of Officers:
+    1.  Except for the position of Senate Clerk, all Student Senate offices shall be filled by way of a Student Senate election at a regular Student Senate meeting.
+    #.  An election to fill all elected Student Senate offices shall be held at the first regular meeting of each Student Senate half session.
+        a.  If a Student Senate office is vacant, an election shall be held at the first regular meeting following the notification of Student Senate of the vacancy.
+    #.  Election Procedure:
+        a.  If the current Chair of Student Senate is participating in the election as a candidate, or the position of Student Senate Chair is vacant, the remaining members of the Student Senate Executive Committee shall nominate one (1) member of their committee to preside over the meeting until a new Student Senate Chair is elected. The Student Senate Executive Committee is also permitted to request that a member of the Student Government Executive Committee preside over the meeting until a new Student Senate Chair is elected.
+        #.  Any Student Senator may nominate a candidate to fill an office.
+            (i) Nominated candidates must be Student Senators, except for the Sergeant at Arms, who may be either a Student Senator or a Member-at-Large.
+            (#)    Nominated candidates must affirm or reject their willingness to let their name stand for election to office.
+        #.  At the discretion of the meeting chair, nominated candidates are permitted to address Student Senate and respond to questions.
+            (i) If one (1) candidate for a position is permitted to address Student Senate then all candidates for that position must be permitted to address Student Senate.
+        #.  At the discretion of the meeting Chair, Student Senators may be permitted to discuss the candidate(s) for each office in the absence of the candidates for that position.
+            (i)  No minutes of this discussion shall be recorded.
+        #.  Voting:
+            (i)  Candidates in this election do count toward quorum while the election proceedings for the relevant office is taking place, but it is assumed that candidates will vote for themselves, and their votes should be recorded as such.
+            (#)    Absentee ballots are not permitted.
+            (#)   There are three (3) voting options during an election: a vote in favor of a particular candidate, an abstention, and a vote of no confidence. A vote of no confidence is a vote against all candidates who are in the running for the relevant office.
+            (#)    The voting procedure for filling each office shall be kept separate.
+        #.  The candidate receiving the majority of the available votes shall be the new officer.
+            (i) Abstensions shall not count toward the majority.
+            (#)    If no candidate receives a majority of the available votes, and a majority of the available votes are not votes of no confidence, then a run-off election shall be held. The meeting chair shall decide which candidates’ names shall stand for the run-off election. By way of a majority vote, Student Senate may add another candidate’s name to the run-off ballot.
+            (#)   This process shall continue until a either single candidate receives a majority of the available votes, or a majority of the available votes are votes of no confidence.
+#.  Duties and Powers of the Chair of Student Senate:
+    1.  General Duties of the Chair of Student Senate:
+        a.  Schedule, set the agenda for, and preside over regular meetings of Student Senate and of the Student Senate Executive Committee;
+        #.  Designate a member of the Student Senate Executive Committee to Chair a regular Student Senate meeting when unable to fill the role and when no Vice Chair has been appointed;
+        #.  Assign Student Senators and Members-at-Large to Student Senate standing committees, pending the approval of a majority of the Executive Committee of Student Senate;
+        #.  Report to Student Senate the failure of a Student Senate standing committee to act upon matters assigned to it;
+        #.  Schedule, set the agenda for, and preside over regular meetings of the Member-at-Large Caucus;
+        #.  Preside over the Student Senator impeachment process;
+        #.  Notify any Student Senator or Member-at-Large when s/he is within one (1) absence of being removed from office;
+        #.  Notify any Student Senator or Member-at-Large when they are removed from their seat;
+        #.  Designate a member of Student Senate to serve as temporary Student Senate Clerk, without pay, when the regular Student Senate Clerk is unable to fill the role;
+        #.  Coordinate with the Student Body Vice President for Organizations to nominate a representative of Student Senate to the Committee on Student Organizations and to the University Center Allocations Board;
+    #.  __Constitutionally Assigned Duties of the Chair of Student Senate__: The following are responsibilities required of the Chair of Student Senate by the Carnegie Mellon University _Student Body Constitution_. The Chair of Student Senate is required to fulfill these duties, as described in the constitution, until such time as they are removed from that constitution.
+        a.  Coordinate with the Graduate Student Assembly President to schedule, set the agenda for, and preside over joint meetings of Student Senate and the Graduate Student Assembly;
+        #.  Sit on the Student Government Executive Committee and the Student Government Board of Directors;
+        #.  Preside over the process of responding to a Presidential Veto of Student Senate legislation;
+        #.  Notify Student Senate and the remaining members of the Student Government Executive Committee regarding the resignation of any member of the Student Government Executive Committee;
+        #.  Preside over, in coordination with the Graduate Student Assembly President, the impeachment process for the Student Body President, Vice President, Vice President for Finance, and/or Vice President for Organizations – if and when an impeachment request is made;
+        #.  Preside over the process of appealing a decision of the Committee on Student Organizations for any student organization that notifies the Student Senate Chair of such an appeal;
+        #.  Appoint, in coordination with the Graduate Student Assembly President, an Interim President, any time the Student Body Vice President is unable to fill a vacancy in the Student Body President’s seat;
+        #.  Preside over, in coordination with the Graduate Student Assembly President, the process of filling a vacant Student Body President, Vice President for Finance, and/or Vice President for Organizations seat;
+        #.  Sit on the Joint Funding Committee, or appoint a permanent representative to fill the seat designated for the Student Senate Chair;
+    #.  Powers of the Chair of Student Senate:
+        a.  Remove Student Senators and Members-at-large from their seats for violation of their attendance requirements;
+        #.  Appoint an interim officer to fill any vacant Student Senate office until a permanent replacement can be elected;
+        #.  Nominate a Vice Chair from the voting membership of Student Senate;
+        #.  Call a special meeting of Student Senate;
+        #.  Break a tie in any Student Senate vote;
+        #.  Remove absences from the record of a Student Senator or Member-at-Large on the basis of alternative contributions to the work of Student Senate, or due to what are deemed to be extenuating circumstances.
+        #.  Form ad hoc committees of Student Senate, with the approval of the Student Senate Executive Committee.
+        #.  Assign extra responsibilities to Student Senate standing committees, as needed to complete the work of Student Senate.
+#.  Vice Chair of Student Senate:
+    1.  The Student Senate Vice Chair shall not be a regular member of a Student Senate standing committee, and shall be a non-voting member of the Student Senate Executive Committee.
+    #.  Duties of the Vice Chair of Student Senate:
+        a.  Act as Chair at any Student Senate meeting at which the Student Senate Chair is not present;
+        #.  Serve as acting Student Senate Chair while there is a vacancy in that office;
+        #.  Assist the Student Senate Chair with Student Senate matters, as deemed necessary by the Student Senate Chair;
+        #.  Be an _ex officio_ member of all Student Senate standing committees.
+#.  Chairs of Student Senate Standing Committees:
+    1.  Duties of the Chairs of Student Senate Standing Committees:
+        a.  Keep a current record of attendance at committee meetings and submit these records to the Student Senate Chair upon request;
+        #.  Provide a written report of activities of the committee during the session to the Chair of Student Senate at the last Student Senate meeting of the half session;
+        #.  Schedule, set the agenda for, and preside over regular meetings of the relevant standing committee;
+        #.  Appoint a Vice Chair from among the standing committee members, to act in the absence of the Chair of the committee;
+        #.  Report committee activities to Student Senate at regular meetings.
+    #.  Duties of the Chair of the Finance Committee:
+        a.  Coordinate with the Student Body Vice President for Finance and the Department of Student Activities to ensure that Student Senate’s budget is based on appropriate projections with respect to the expected number of student activities fee paying undergraduate students, and to ensure that the disbursement of Activities Fee money to Student Senate accounts are made in accord with the policies laid out in the Carnegie Mellon University _Student Body Constitution_, the Carnegie Mellon University _Student Government Fiscal Policy_, these bylaws, and the Carnegie Mellon University _Student Senate Fiscal Policy_;
+        #.  Provide a written or electronic report summarizing Student Senate’s financial transactions of the past month to all Student Senators no later than the third week of each complete month of the Academic Calendar.
+            (i) This report shall include the total amount of money spent from the Student Senate Operating Account during the current fiscal year as well as the total amount of money remaining in the account.
+    #.  Powers of the Chair of the Finance Committee:
+        a.  Review all budgetary categories of any student organization that receives funds from Student Senate;
+        #.  Recommend to the Student Body Vice President for Finance that the accounts of a student organization that receives funds from Student Senate be frozen;
+            (i) The Chair of the Finance Committee must notify the Chair of Student Senate and the Finance Committee within one (1) week of placing any such request.
+        #.  Schedule audits and collective inventories for Student Senate’s accounts and for the accounts of groups receiving funding from Student Senate;
+        #.  Subpoena financial records involving funds allocated by Student Senate.
+#.  Sergeant at Arms:
+    1.  Duties of the Sergeant at Arms:
+        a.  Care for and maintain the physical properties and office of Student Senate, including the property jointly owned by student organizations and Student Senate;
+        #.  Upon request of the Student Senate Chair or Vice Chair, acquire meeting places for Student Senate, its committees, and its events;
+        #.  Attend all meetings of Student Senate and assist the Student Senate Chair in maintaining order in the chambers.
+#.  Student Senate Clerk:
+    1.  Duties of the Student Senate Clerk
+        a.  Record and distribute minutes for every regular meeting of Student Senate;
+        #.  Maintain Student Senate Attendance records;
+        #.  Fulfill other duties, as assigned by the Student Senate Executive Committee.
+#.  Honorary Chairs:
+    1.  Honorary Chairs of Student Senate and Honorary Chairs of Internal Committees of Student Senate shall be elected by a two-thirds (2/3) vote at a meeting of Student Senate.
+    #.  No Student Senator may be nominated for an Honorary Chair position if they have not held the actual position for at least one (1) full session.
+    #.  No Student Senator may be nominated for an honorary position if they have not served on Student Senate for at least two (2) full sessions.
+    #.  A two-thirds (2/3) vote at a meeting of Student Senate may bestow, upon any Student Senator who meets the above requirements, an honorary position.
+    #.  The position of an honorary office entitles the holder to rights that are bestowed upon Members-at-Large.
+    #.  Honorary positions shall be held perpetually, unless revoked with a three-fourths (3/4) majority vote at a regular meeting of Student Senate.
+
 # Article VII. Meetings.
+
+A.  Regular Meetings:
+    1.  Regular meetings of Student Senate must be held at least twice during each complete month of the academic year.
+    #.  Regular meetings may not be held on days when classes are not in session.
+    #.  Minutes of these meetings must be made available to the campus community.
+#.  Special Meetings:
+    1.  Only the Student Body President or Student Senate Chair may call a special meeting of Student Senate.
+    #.  The Student Body President or Student Senate Chair must give notice of a special meeting at least seventy-two (72) hours prior to the designated meeting time.
+    #.  Absences shall not be counted in special meetings.
+#.  Conduct of Business:
+    1.  Except where contradicted in these bylaws, Student Senate shall conduct business in accordance with _Robert's Rules of Order, Newly Revised_.
+    #.  Introduction of legislation
+        a.  Legislation which has already been approved by a committee of Student Senate may be voted on by Student Senate at the regular meeting where it is initially presented to Student Senate.
+        #.  Legislation which has not passed through a Student Senate standing committee may not be voted on during the Student Senate meeting in which it is introduced unless a motion to vote immediately upon the legislation carries by a two-thirds (2/3) supermajority vote.
+        #.  All proposed legislation shall be presented in writing and, if desired by a voting member of Student Senate, shall be read aloud before it is discussed. The same shall hold for all motions and amendments pertaining to that legislation.
+        #.  In the case of a Presidential veto of legislation passed by Student Senate, the Chair of Student Senate must read the veto at the first regular Student Senate meeting following the Student Body President’s announcement of the veto.
+    #.  Voting
+        a.  There shall be four (4) distinct voting methods used by Student Senate. They are listed below in order of greatest precedence to lowest precedence:
+            (i)  Secret ballot
+            (#)  Roll call vote
+            (#)  Hand vote
+            (#)  Voice vote
+            (#)  Acclamation (unanimous consent)
+        #.  The Chair of Student Senate normally determines the manner of voting. However, if a Student Senator calls for a method of voting of greater precedence for an individual question, that method must be used. If multiple requests are received, the request with the greatest precedence shall be honored.
+        #.  A Student Senator shall decline to vote, in committee or on the floor, on any matter where s/he believes that his or her voting on such a matter would be a conflict of interest.
+    #.  Quorum:
+        a.  Quorum for Student Senate is defined as a simple majority of the seated Student Senators.
+            (i) If, at any time during a meeting of Student Senate, a question is raised by a Student Senator as to the presence of a quorum, the Student Senate Clerk must call the roll and announce the result.
+        #.  Quorum for any Student Senate standing committee, and for the Executive Committee of Student Senate, is defined as a simple majority of the members of the relevant committee.
 
 # Article VIII. The Executive Committee of Student Senate.
 
