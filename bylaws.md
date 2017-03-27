@@ -215,14 +215,25 @@ A.  Student Senate shall consist of the following types of members:
             (#)  In the event that there is a slated vote, the vote is concluded when a majority of the available votes are cast in favor of the slate. If a majority of the available votes are opposed to the slate, or if there is a tie, the meeting Chair must then proceed through the vote according to the regular, non-slated procedure.
     #.  If no valid petitions are received by the announced deadline, the Chair of Student Senate shall begin the process again by announcing a new deadline for petitions.
 
-
 # Article V. Student Senate Fiscal Policy.
+
+A.  All Student Senate financial activities are constrained by the Carnegie Mellon University _Student Government Fiscal Policy_ and the Carnegie Mellon University _Student Senate Fiscal Policy_.
+#.  Amendment to the Carnegie Mellon University _Student Senate Fiscal Policy_ must be proposed and passed in accord with the procedure set out for amendment to these bylaws.
 
 # Article VI. Officers.
 
 # Article VII. Meetings.
 
 # Article VIII. The Executive Committee of Student Senate.
+
+A.  The Chair of Student Senate and the Chair of each Student Senate standing committee shall be a voting member of the Executive Committee of Student Senate. The Vice Chair of Student Senate shall be a non-voting member of the Executive Committee of Student Senate.
+#.  Duties of the Student Senate Executive Committee:
+    1.  Meet at least once each complete month of the academic year, excluding dates when classes are not in session;
+    #.  Maintain regular contact with the Graduate Student Assembly Executive;
+    #.  Propose a budget, for funds under the control of Student Senate, no later than the third regular Student Senate meeting of the academic year.
+#.  Powers of the Student Senate Executive Committee:
+    1.  Issue interpretations of these bylaws, and the Carnegie Mellon University _Student Senate Fiscal Policy_, in consultation with the Constitutional Advisor, when questions as to their interpretation arise;
+    #.  Request that the Student Body Vice President for Finance and/or the Student Body Vice President for Organizations place a student organization on Financial or Recognition Probation on reasonable suspicion that the organization is in violation of these bylaws and/or the Carnegie Mellon University _Student Senate Fiscal Policy_.
 
 # Article IX. Standing Committees.
 
