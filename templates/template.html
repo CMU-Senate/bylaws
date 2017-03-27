@@ -14,7 +14,10 @@ $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
 $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
-  <style type="text/css">code{white-space: pre;}</style>
+  <style type="text/css">
+    code{white-space: pre;}
+    #TOC ul {list-style-type:none; padding-left: 5px;}
+  </style>
 $if(quotes)$
   <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
 $endif$
@@ -52,6 +55,11 @@ $endif$
 </div>
 $endif$
 <hr>
+$if(toc)$
+<div id="$idprefix$TOC">
+$toc$
+</div>
+$endif$
 $body$
 $for(include-after)$
 $include-after$
