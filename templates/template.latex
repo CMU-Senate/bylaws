@@ -215,7 +215,7 @@ $if(institute)$
 \providecommand{\institute}[1]{}
 \institute{$for(institute)$$institute$$sep$ \and $endfor$}
 $endif$
-\date{$date$}
+\date{\vspace{-.5in}$date$}
 
 \begin{document}
 $if(title)$
@@ -233,7 +233,6 @@ $if(colorlinks)$
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
 $endif$
 \setcounter{tocdepth}{$toc-depth$}
-\vspace{-0.5in}
 \tableofcontents
 }
 $endif$
