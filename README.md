@@ -16,5 +16,3 @@ TODO:
 
 - Rest of the sections
 - Updated version
-- Date support
-- HTML TOC (?)
