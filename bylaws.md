@@ -383,6 +383,87 @@ A.  The Chair of Student Senate and the Chair of each Student Senate standing co
 
 # Article IX. Standing Committees.
 
+A.  The following shall be standing committees of Student Senate:
+    1.  Academic Affairs;
+    #.  Business Affairs;
+    #.  Campus Life;
+    #.  Communications;
+    #.  Finance;
+    #.  Internal Development;
+    #.  New Member Caucus.
+#.  Membership:
+    1.  Each Student Senator shall be a regular member of at least one (1) Student Senate standing committee.
+        a.  The Student Senate Chair and Vice Chair shall not be assigned to a particular standing committee, but shall be _ex officio_ members of each committee.
+    #.  Each Member-at-Large shall be a regular member of  at least one (1) Student Senate standing committee.
+    a.  Members-at-Large may not be members of the Finance Committee.
+    #.  All and only Student Senators who are members of a particular standing committee are permitted to vote on matters addressed in that committee.
+    #.  The size of each standing committee shall be determined by the Chair of Student Senate, in consultation with the Chair of each standing committee.
+    #.  Upon election, each Student Senator shall submit their committee assignment preferences to the Chair of Student Senate. The Chair of Student Senate shall determine standing committee assignments, in consultation with the Student Senate Executive Committee and in light of the preferences expressed by Student Senators, at the beginning of each half session of Student Senate.
+#.  Meetings:
+    1.  Each standing committee shall fix regular meeting times for the transaction of business before the committee.
+    #.  Quorum for a standing committee shall be a simple majority of the Student Senators who are members of that standing committee.
+        a.  This calculation does not include _ex officio_ members of the committee who are also Student Senators.
+    #.  All business before a standing committee at the end of a half session shall be resumed by the same standing committee at the commencement of the next half session.
+#.  Duties of the Academic Affairs Committee:
+    1.  Propose legislation concerning the academic welfare of the undergraduate student body;
+    #.  Announce to Student Senate any changes or proposed changes in academic policy;
+    #.  Designate, in consultation with the Student Senate Chair, a representative to the University Academic Calendar Committee;
+    #.  Function as the liaison to the University Education Council, the Associate Provost for Academic Projects, and Enrollment Services on academic issues that affect members of the undergraduate student body;
+    #.  Take responsibility for any business charged to the committee by Student Senate.
+#.  Duties of the Business Affairs Committee:
+    1.  Propose legislation concerning business services at Carnegie Mellon University, as they relate to the undergraduate student body;
+    #.  Announce to Student Senate any changes or proposed changes in the business services of Carnegie Mellon University;
+    #.  Function as liaison to departments and individuals responsible for business services at Carnegie Mellon University;
+    #.  Take responsibility for any business charged to the committee by Student Senate.
+#.  Duties of the Campus Life Committee:
+    1.  Propose legislation concerning the campus environment as it relates to the undergraduate student body;
+    #.  Host events that benefit the undergraduate student body;
+    #.  Announce to Student Senate any changes or proposed changes in auxiliary services;
+    #.  Function as the liaison to the Division of Student Affairs;
+    #.  Maintain Student Senate campus policies;
+    #.  Review and suggest amendments to the policies contained in the Student Handbook, and act as the liaison between Student Senate and Faculty Senate on university policy amendments passed by Student Senate;
+    #.  Take responsibility for any business charged to the committee by Student Senate.
+#.  Duties of the Communications Committee:
+    1.  Publicize all Student Senate activities, including elections and Student Senate vacancies;
+    #.  Plan and coordinate Student Senate involvement in special events such as the Activities Fair, Homecoming, and Spring Carnival;
+    #.  Maintain a dialogue with constituents and report such communication to Student Senate;
+    #.  Promote awareness of Student Senate on campus;
+    #.  Act as liaison to campus media;
+    #.  Maintain and update the Student Senate website, and other online presence;
+    #.  Take responsibility for any business charged to the committee by Student Senate.
+#.  Duties of the Finance Committee:
+    1.  Propose legislation to Student Senate on the funding of student organizations within the guidelines set forth by Student Senate in these bylaws and in the Carnegie Mellon University _Student Senate Fiscal Policy_;
+    #.  Oversee the process of allocating Student Senate funds to student organizations, as described in the Carnegie Mellon University _Student Senate Fiscal Policy_;
+    #.  Maintain the Carnegie Mellon University _Student Senate Fiscal Policy_;
+    #.  Be familiar with the restrictions on Student Senate spending described in the Carnegie Mellon University _Student Government Fiscal Policy_;
+    #.  Take responsibility for any business charged to the committee by Student Senate.
+#.  Powers of the Chair of the Finance Committee:
+    1.  Review all budgetary categories of any student organization that receives funds from Student Senate;
+    #.  Recommend to the Student Body Vice President for Finance that the accounts of a student organization that receives funds from Student Senate be frozen;
+    #.  The Chair of the Finance Committee must notify the Chair of Student Senate and the Finance Committee within one (1) week of placing any such request.
+    #.  Schedule audits and collective inventories for Student Senate’s accounts and for the accounts of groups receiving funding from Student Senate;
+    #.  Subpoena financial records involving funds allocated by Student Senate.
+#.  Duties of the Internal Development Committee:
+    1.  Plan and coordinate educational workshops and seminars for Student Senate and its standing internal committees;
+    #.  Plan and co-ordinate sessions of the New Member Caucus;
+    #.  Maintain records of Student Senate transactions over the course of each session;
+    #.  Ensure that the Sergeant at Arms maintains the Student Senate office in a clean and orderly condition;
+    #.  Ensure that each Student Senator is provided with the most up to-date version of these bylaws, the Carnegie Mellon University _Student Body Constitution_, and other rules of Student Senate and Student Government;
+    #.  Consider legislation, petitions, and other matters relating to these bylaws, the Carnegie Mellon University _Student Body Constitution_, and other issues pertaining to Student Senate and Student Government;
+    #.  Promote effectiveness and morale within Student Senate;
+    #.  Take responsibility for any business charged to the committee by Student Senate.
+#.  New Member Caucus:
+    1.  All newly-elected senators and Members-at-Large shall participate in sessions of  the New Member Caucus.
+        a.  Two (2) meetings of the New Member Caucus shall be held every half-session;
+        #.  Senators and MALs are required to attend one of the two (2) sessions;
+        #.  Failure to attend either of the two (2) sessions of the New Member Caucus shall count as one (1) absence for that Student Senator or Member-at- Large.
+    #.  The New Member Caucus shall be chaired by the Chair of the Internal Development Committee.
+    #.  Duties of the New Member Caucus:
+        a.  Familiarize new members with the work of Student Senate;
+        #.  Inform new members on the workings of Student Government, its governing documents, and _Robert's Rules of Order, Newly Revised_;
+        #.  Educate new members on the functions and objectives of the standing committees of Student Senate;
+        #.  Be available for reports and ex-officio presentations as determined by the Executive Committee of Student Senate.
+
 # Article X. Student Body Directives.
 
 A.  The undergraduate student body can compel Student Senate to act on any matter by submitting a New Issue Petition to any member of the Student Senate Executive Committee.
@@ -414,5 +495,54 @@ A.  To be considered for approval, an amendment to these bylaws must be presente
 
 # Appendix: Amendments to the Student Senate Bylaws
 
+_Note: In September 2009 the Amendment procedure for the Student Senate Bylaws was changed to require that amendments be kept as an appendix to these bylaws. A partial list of amendments from March 19th, 1998 onward was available, and so it has also been included in this appendix. In April 2010 major revisions to the Student Senate Bylaws were approved by Student Senate, effectively replacing the old document with a new set of bylaws, and a separate document detailing Student Senate Fiscal Policy. The details of these changes are not included in this appendix, but all changes made to this document after the major revisions are recorded in this appendix._
 
-
+-  March 19, 1998: Removal of section on elections to the Election Rules
+-  April 2, 1998: Changed fiscal policy to match proposed Student Senate Fiscal Policy
+-  April 30, 1998: Removal of restriction concerning the University Statement of Assurance
+-  November 11, 1998: Revised article concerning the Activities Board
+-  November 18, 1998: Revised and created articles concerning membership, structure, the Executive Committee, meetings, and student body directives
+-  April 8, 1999: Added Student Senate Budget to Fiscal Policy.
+-  April 22, 1999: Added Election of Internally Elected Officials to Structure.
+-  May 1, 2001: Changed the number of Alternates that a Senator can send.
+-  Spring 2002: Added member at large caucus, added Business Affairs and Campus Life Committees, removed Campus Affairs Committee, changed names of Public Relations and Internal Affairs committees to Communications and Internal Development, respectively
+-  Spring 2003: Changed wording of sessions to semesters in section about attendance, added section that requires votes on committee chairs every semester
+-  Fall 2004: Changed a majority from being based on members present to members voting, changed the entitlement of a non-funded organization to leaflet and petition to poster
+-  Spring 2004: Changed Treasurer to Vice President of Finance, added the Student Body Dining Chair to the list of ex-officio officers, changed rules of proxies to only not allow other senators or Executive officers, and required members-at-large to be on committees.
+-  Spring 2006: Changed name of Funding and Recognition Committee to Finance Committee. Removed Article on Student Organizations to match the Constitution of Student Body. Added media restriction notification requirement to Fiscal Policy. Added Joint Funding Committee and Committee on Student Organizations as ex-officio of the general body. Defined political and charitable events in Student Senate Fiscal Policy.
+-  Fall 2006: Strengthened restrictions against funding reimbursements.
+-  April 2009:
+    -  II.II.A.1.c: changed to permit proxy four times per semester instead of per month.
+    -  III.II.C: added “Call a special meeting of Senate” to powers of the Senate Chair
+    -  III.X.F: added “host events that benefit the entire student body” to duties of the Campus Life Committee
+    -  IV.II: deleted “Oversee the activities of all organizations that are on probation” from ExComm duties
+    -  V.I: Allow Senate Chair to call special meetings.
+    -  VII.XI.B: Make CoSO, instead of ExComm, responsible for groups on probation; remove requirement for organizations on probation to report names of their group members.
+-  September 3, 2009:
+    -  Added page numbers and changed numbering (& references) to new format (i.e. Article III.A.1.a.(iv)).
+    -  Amended the amendment procedure:
+        -  XI.A changed from ‘Proposed amendments to these Bylaws must be submitted in writing to the Student Senate at a regular meeting of Student Senate’ to ‘To be considered for approval, an amendment to these Bylaws must be presented in writing at a regular meeting of Student Senate.’
+        -  Removed requirement that ExComm makes a recommendation on proposed amendments.
+        -  Weakened timing constraints: used to require that the proposed amendment be voted upon at the next regular meeting of Senate (with a 2/3 vote). Changed to allow Senate to wait up to 3 weeks before voting on the proposal, and to allow Senate to vote immediately upon presentation, if there is a ¾ vote in favor of this, and if Senate receives the material at least 1 week before the initial presentation.
+        -  Added requirement that the Constitutional Advisor keeps a record of all amendments to these Bylaws, as an appendix to the bylaws.
+-  April 6, 2011:
+    -  All references to notification “in writing” changed to notification “via e-mail” – for the sake of clarity.
+    -  Article I.A.1: Clause expanded to include “to work toward enhancing the overall undergraduate student experience on campus” in the general purpose of Senate.
+    -  Article II: Terms & Definitions arranged in alphabetical order.
+    -  Article IV.B.1.b: Clause revised to clarify the constraints around accelerated/integrated masters students serving on Student Senate.
+    -  Article IV.J.3: Clause c inserted and clause d revised to specify voting procedures, including the disallowing of absentee ballots, the inclusion of “no confidence” votes, and the ability (or lack thereof) for candidates to vote in an election.
+    -  Article VI.G.3: Clause e inserted and clause f revised to specify voting procedures, including the disallowing of absentee ballots, the inclusion of “no confidence” votes, and the ability (or lack thereof) for candidates to vote in an election.
+    -  Article VI.H.1.j: Revised to include the (newly created) University Center Allocations Board.
+    -  Article VI.J.1: Numbering of sub-clauses fixed.
+    -  Article VI.J: Clauses 2 and 3 inserted to specify the duties and powers of the Finance Chair.
+    -  Article XI.I: Deleted (inserted as Article VI.J.3).
+-  May 2012: 
+    -  Article VI.J.2.b: Added a duty for the Finance Chair to give monthly reports to the Student Senate.
+-  October 2015:
+    -  Article IV.B.3: Clauses added to define attendance requirements for New Member Caucus, and engagement hour requirements for Senators
+    -  Article IV.C.3.c: Clauses added to define attendance requirements for New Member Caucus, and engagement hour requirements added for Members-at-Large
+    -  Article IV.E.6: Clause revised to specify impact of additional engagement hours on member attendance.
+    -  Article IX.A.7: Added to list New Member Caucus as a Standing Committee.
+    -  Article IX.B: Requirement updated to require members to sit on at least one standing committee.
+    -  Article IX.J.2: Added to list planning New Member Caucus as a duty of the Internal Development Committee.
+    -  Article IX.K: Updated to define New Member Caucus, replacing the Member-at-Large Caucus definition.
