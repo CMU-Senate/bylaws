@@ -12,4 +12,4 @@ html:
 		--template=templates/template.html
 
 clean:
-	rm bylaws.pdf
+	rm bylaws.pdf bylaws.html
