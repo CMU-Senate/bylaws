@@ -252,20 +252,20 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
         a.  If the current Chair of Student Senate is participating in the election as a candidate, or the position of Student Senate Chair is vacant, the remaining members of the Student Senate Executive Committee shall nominate one (1) member of their committee to preside over the meeting until a new Student Senate Chair is elected. The Student Senate Executive Committee is also permitted to request that a member of the Student Government Executive Committee preside over the meeting until a new Student Senate Chair is elected.
         #.  Any Student Senator may nominate a candidate to fill an office.
             (i) Nominated candidates must be Student Senators, except for the Sergeant at Arms, who may be either a Student Senator or a Member-at-Large.
-            (#)    Nominated candidates must affirm or reject their willingness to let their name stand for election to office.
+            (#)  Nominated candidates must affirm or reject their willingness to let their name stand for election to office.
         #.  At the discretion of the meeting chair, nominated candidates are permitted to address Student Senate and respond to questions.
             (i) If one (1) candidate for a position is permitted to address Student Senate then all candidates for that position must be permitted to address Student Senate.
         #.  At the discretion of the meeting Chair, Student Senators may be permitted to discuss the candidate(s) for each office in the absence of the candidates for that position.
             (i)  No minutes of this discussion shall be recorded.
         #.  Voting:
             (i)  Candidates in this election do count toward quorum while the election proceedings for the relevant office is taking place, but it is assumed that candidates will vote for themselves, and their votes should be recorded as such.
-            (#)    Absentee ballots are not permitted.
-            (#)   There are three (3) voting options during an election: a vote in favor of a particular candidate, an abstention, and a vote of no confidence. A vote of no confidence is a vote against all candidates who are in the running for the relevant office.
-            (#)    The voting procedure for filling each office shall be kept separate.
+            (#)  Absentee ballots are not permitted.
+            (#)  There are three (3) voting options during an election: a vote in favor of a particular candidate, an abstention, and a vote of no confidence. A vote of no confidence is a vote against all candidates who are in the running for the relevant office.
+            (#)  The voting procedure for filling each office shall be kept separate.
         #.  The candidate receiving the majority of the available votes shall be the new officer.
-            (i) Abstensions shall not count toward the majority.
-            (#)    If no candidate receives a majority of the available votes, and a majority of the available votes are not votes of no confidence, then a run-off election shall be held. The meeting chair shall decide which candidates’ names shall stand for the run-off election. By way of a majority vote, Student Senate may add another candidate’s name to the run-off ballot.
-            (#)   This process shall continue until a either single candidate receives a majority of the available votes, or a majority of the available votes are votes of no confidence.
+            (i)  Abstensions shall not count toward the majority.
+            (#)  If no candidate receives a majority of the available votes, and a majority of the available votes are not votes of no confidence, then a run-off election shall be held. The meeting chair shall decide which candidates’ names shall stand for the run-off election. By way of a majority vote, Student Senate may add another candidate’s name to the run-off ballot.
+            (#)  This process shall continue until a either single candidate receives a majority of the available votes, or a majority of the available votes are votes of no confidence.
 #.  Duties and Powers of the Chair of Student Senate:
     1.  General Duties of the Chair of Student Senate:
         a.  Schedule, set the agenda for, and preside over regular meetings of Student Senate and of the Student Senate Executive Committee;
@@ -481,9 +481,9 @@ A.  The undergraduate student body can compel Student Senate to act on any matte
     #.  Student Senate must put the relevant legislation forward for an undergraduate student body referendum within two (2) months of the validation of the Restraining Petition.
         a.  Student Senate must notify all members of the undergraduate student body regarding the date and content of the referendum, along with the method(s) available for casting a vote.
         #.  A majority vote opposed to the legislation passed by Student Senate shall be sufficient to rescind legislation passed by Student Senate.
-            (i) The results of this referendum shall be binding if at least fifteen (15) percent of the Activities Fee paying members of the undergraduate student body vote on the referendum.
-            (#)    If this threshold is not reached, then Student Senate must hold the referendum again, within two (2) weeks of the original referendum.
-            (#)   If the threshold is not reached in the second referendum, then Student Senate is released from the requirements of the Restraining Petition.
+            (i)  The results of this referendum shall be binding if at least fifteen (15) percent of the Activities Fee paying members of the undergraduate student body vote on the referendum.
+            (#)  If this threshold is not reached, then Student Senate must hold the referendum again, within two (2) weeks of the original referendum.
+            (#)  If the threshold is not reached in the second referendum, then Student Senate is released from the requirements of the Restraining Petition.
 
 # Article XI. Amendment.
 
