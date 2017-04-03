@@ -14,5 +14,4 @@ Advantages of this method include the following:
 
 TODO:
 
-- Rest of the sections
-- Updated version
+- Updated version (only STV changes?)
