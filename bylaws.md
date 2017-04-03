@@ -478,16 +478,16 @@ A.  The following shall be standing committees of Student Senate:
 # Article X. Student Body Directives.
 
 A.  The undergraduate student body can compel Student Senate to act on any matter by submitting a _New Issue Petition_ to any member of the Student Senate Executive Committee.
-    1.  A New Issue Petition must contain the signatures, printed names, and Carnegie Mellon AndrewIDs of at least fifty (50) members of the undergraduate student body.
+    1.  A New Issue Petition must contain the signatures, names, and Carnegie Mellon AndrewIDs of at least fifty (50) members of the undergraduate student body.
     #.  The Executive Committee of Student Senate shall have one (1) week from receipt of a New Issue Petition to validate that petition.
     #.  Student Senate must address the issue contained within a New Issue Petition within two (2) weeks of its validation.
     #.  The Student Senate Executive Committee is required to notify all members of the undergraduate student body who signed the New Issue Petition, within four (4) weeks of its validation, of Student Senate's response to the petition.
 #.  The undergraduate student body can compel Student Senate to reconsider any legislative vote taken within the previous thirty (30) days by submitting a _Reconsideration Petition_ to any member of the Student Senate Executive Committee.
-    1.  A Reconsideration Petition must contain the signatures, printed names, and Carnegie Mellon AndrewIDs of at least five (5) per cent of the undergraduate student body.
+    1.  A Reconsideration Petition must contain the signatures, names, and Carnegie Mellon AndrewIDs of at least five (5) per cent of the undergraduate student body.
     #.  The Executive Committee of Student Senate shall have one (1) week from receipt of a Reconsideration Petition to validate that petition.
     #.  Upon validation of a Reconsideration Petition, reconsideration of the relevant vote shall become a special order of business at the next regular Student Senate meeting.
 #.  The undergraduate student body can force Student Senate to present legislation that has been passed by Student Senate to the undergraduate student body, in the form of a referendum, by submitting a _Restraining Petition_ to any member of the Student Senate Executive Committee.
-    1.  A Restraining Petition must contain the signatures, printed names, and Carnegie Mellon AndrewIDs of at least five (5) per cent of the Activities Fee paying members of the undergraduate student body.
+    1.  A Restraining Petition must contain the signatures, names, and Carnegie Mellon AndrewIDs of at least five (5) per cent of the Activities Fee paying members of the undergraduate student body.
     #.  The Executive Committee of Student Senate shall have one (1) week from receipt of a Restraining Petition to validate that petition.
     #.  Student Senate must put the relevant legislation forward for an undergraduate student body referendum within two (2) months of the validation of the Restraining Petition.
         a.  Student Senate must notify all members of the undergraduate student body regarding the date and content of the referendum, along with the method(s) available for casting a vote.
