@@ -30,21 +30,21 @@ A.  The _Activities Board_ refers to the standing committee of Student Governmen
     1.  Any member of the undergraduate student body who does not fall under the auspices of the constituencies listed shall be classified as a Miscellaneous Student.
 #.  The Elections Board refers to the standing committee of Student Government, established in the Carnegie Mellon University _Student Body Constitution_, to oversee the annual Student Government Executive and Student Senate elections.
 #.  Financial Probation is a form of probation for Student Government Recognized organizations, and is established in the Carnegie Mellon University _Student Body Constitution_ and _Student Government Fiscal Policy_
-#.  A full session of Student Senate shall extend from the first regular meeting of Student Senate following the ratification of the Student Senate Election results until the adjournment of the meeting at which the following year’s Student Senate Election results are successfully ratified.
+#.  A full session of Student Senate shall extend from the first regular meeting of Student Senate following the ratification of the Student Senate Election results until the adjournment of the meeting at which the following year's Student Senate Election results are successfully ratified.
 #.  The Graduate Student Assembly is the graduate legislative branch of Carnegie Mellon University student government, created in the Carnegie Mellon University _Student Body Constitution_.
 #.  There are two _half sessions_ of Student Senate. The first begins at the first regular meeting of the full session and ends at the last regular meeting of the Fall semester. The second half session begins at the last regular meeting of the Fall semester and ends at the last regular meeting of the full session.
 #.  The _Joint Funding Committee_ refers to the standing committee of Student Government, established in the Carnegie Mellon University _Student Body Constitution_ to oversee the funding of student organizations.
 #.  A _joint meeting_ of Student Senate and the Graduate Student Assembly is a meeting of Student Senate and the Graduate Student Assembly at which a majority of the members of Student Senate and a majority of the members of the Graduate Student Assembly are present.
 #.  A _meeting_ of Student Senate is any gathering of a majority of the voting members of Student Senate, provided all such members have been notified of that gathering at least one (1) week in advance of the gathering.
 #.  _Notification_ of a group of students shall be satisfied by either an e-mail sent to all individuals in that group, or a verbal announcement at a regular meeting of that group, provided minutes of that meeting are recorded and distributed.
-#.  The _President’s Cabinet_ refers to the standing committee of Student Government, established in the Carnegie Mellon University _Student Body Constitution_, to o assist the Student Body President with the running of the Executive Branch of Student Government.
+#.  The _President's Cabinet_ refers to the standing committee of Student Government, established in the Carnegie Mellon University _Student Body Constitution_, to o assist the Student Body President with the running of the Executive Branch of Student Government.
 #.  _Recognition Probation_ is a form of probation for Student Government Recognized organizations, and is established in the Carnegie Mellon University _Student Body Constitution_ and _Student Government Fiscal Policy_
 #.  A regular meeting of Student Senate is a meeting among those scheduled by Student Senate for the purpose of conducting their routine business.
-#.  The _student body_ refers to the collection of students enrolled in undergraduate or graduate academic programs at Carnegie Mellon University’s Pittsburgh campus.
+#.  The _student body_ refers to the collection of students enrolled in undergraduate or graduate academic programs at Carnegie Mellon University's Pittsburgh campus.
 #.  The _student government executive committee_ refers to the committee, established in the Carnegie Mellon University _Student Body Constitution_, consisting of the Student Body President, Student Body Vice President, Student Body Vice President for Finance, Student Body Vice President for Organizations, Student Senate Chair, and Graduate Student Assembly President.
 #. A _student organization_ is any grouping of members of the student body.
     1. Neither Student Senate nor the Graduate Student Assembly is a student organization.
-#. The _undergraduate student body_ refers to all members of the student body who are enrolled in undergraduate academic programs at Carnegie Mellon University’s Pittsburgh campus.
+#. The _undergraduate student body_ refers to all members of the student body who are enrolled in undergraduate academic programs at Carnegie Mellon University's Pittsburgh campus.
 
 # Article III. Duties and Powers of Student Senate.
 
@@ -66,7 +66,7 @@ A.  General Duties of Student Senate:
     #.  Fulfill the duties and assume the powers assigned to Student Senate when Student Senate and the Graduate Student Assembly enter binding arbitration.
 #.  __Constitutionally Assigned Powers of Student Senate__: The following are powers conferred upon Student Senate by the Carnegie Mellon University _Student Body Constitution_ and its associated documents. Student Senate holds these powers, as described in that constitution and its associated documents, until such time as they are removed from that constitution and its associated documents.
     1.  Override a Presidential Veto of Student Senate legislation;
-    #.  Overturn a decision of the Committee on Student Organizations regarding a student organization’s Student Government Recognition status, and/or its status of Recognition Probation;
+    #.  Overturn a decision of the Committee on Student Organizations regarding a student organization's Student Government Recognition status, and/or its status of Recognition Probation;
     #.  Request the impeachment of the Student Body President, Vice President for Finance, and/or Vice President for Organizations;
     #.  Overrule the decision(s) of the Student Senate Chair and the Graduate Student Assembly President regarding the assignment of duties and/or powers normally belonging to a particular officer of Student Government, when an impeachment request has been made for that officer;
     #.  Overrule the appointment of a member of the student body as an Interim Student Body President, Vice President for Finance, and/or Vice President for Organizations;
@@ -77,7 +77,7 @@ A.  General Duties of Student Senate:
     #.  Approve or reject aberrations in the make-up of the Joint Funding Committee;
     #.  Overrule the removal of any undergraduate student from the Joint Funding Committee and/or the Committee on Student Organizations;
     #.  Remove a member of the student body from the Elections Board;
-    #.  Overrule the appointment of any member of the President’s Cabinet;
+    #.  Overrule the appointment of any member of the President's Cabinet;
     #.  Remove the Activities Board Executive Chair from office;
     #.  Overrule, in coordination with the Graduate Student Assembly, a freeze placed on the budget of a student organization;
     #.  Vote to enter binding arbitration with the Graduate Student Assembly;
@@ -91,7 +91,7 @@ A.  Student Senate shall consist of the following types of members:
     #.  Non-voting _ex officio_ members.
 #.  Student Senators:
     1.  Student Senators shall be elected as representatives of their constituency.
-        a.  Each constituency shall be represented by either one (1) Student Senator, or one (1) Student Senator for every one hundred forty (140) constituents (or majority fraction thereof) – whichever is greater.
+        a.  Each constituency shall be represented by either one (1) Student Senator, or one (1) Student Senator for every one hundred forty (140) constituents (or majority fraction thereof) - whichever is greater.
         #.  Constituents entering an integrated or accelerated graduate program at Carnegie Mellon University may represent their undergraduate constituency during their time in that program provided they are not also serving as a Graduate Student Assembly Representative or as a member of the Graduate Student Assembly Executive Committee.
         #.  Student Senators shall normally be elected in accord with the procedure for filling Vacant Student Senate Seats as set out in Article IV, Subsection J of these bylaws.
             (i)  Vacant Student Senate seats shall be filled according to the procedure for filling vacancies set out in these bylaws.
@@ -112,12 +112,12 @@ A.  Student Senate shall consist of the following types of members:
             (i) Engagement Hours shall be earned by engagement with the student body through tabling for Student Senate and attending university events pertaining to current issues, as deemed appropriate by the Chair of Student Senate.
             (#)  Senators will only be required to earn all three (3) hours if elected by the date of the mid-semester break during that half-session.
         f.  Designate a proxy to attend Student Senate meetings when unable to attend those meetings themselves;
-            (i)  A Student Senator’s proxy must be a member of the constituency that the Student Senator represents.
+            (i)  A Student Senator's proxy must be a member of the constituency that the Student Senator represents.
             (#)  A proxy may not be a Student Senator or a member of the Executive Branch of Student Senate.
-            (#)  A Student Senator’s proxy assumes the duties and powers of that Student Senator for the duration of the meeting during which s/he is serving as that Student Senator’s proxy.
+            (#)  A Student Senator's proxy assumes the duties and powers of that Student Senator for the duration of the meeting during which s/he is serving as that Student Senator's proxy.
             (#)  To designate a proxy a Student Senator must notify the Chair of Student Senate, via e-mail, of the name of that proxy.
     #.  Powers of Student Senators:
-        a.  Student Senators assume all parliamentary powers afforded them in _Robert’s Rules of Order, Newly Revised_. These powers are in effect during all Student Senate meetings and during all meetings of Student Senate committees of which they are members;
+        a.  Student Senators assume all parliamentary powers afforded them in _Robert's Rules of Order, Newly Revised_. These powers are in effect during all Student Senate meetings and during all meetings of Student Senate committees of which they are members;
         #.  Propose legislation to Student Senate;
         #.  Nominate members of the undergraduate student body to serve as Members-at-Large.
 #.  Members-at-Large:
@@ -147,7 +147,7 @@ A.  Student Senate shall consist of the following types of members:
         #.  the Student Body Vice President for Finance;
         #.  the Student Body Vice President for Organizations;
         #.  the Graduate Student Assembly President;
-        #.  all members of the President’s Cabinet;
+        #.  all members of the President's Cabinet;
         #.  the Chair of each Student Government standing committee that is established in the Carnegie Mellon University _Student Body Constitution_;
         #.  the Student Dormitory Council President;
         #.  the Inter-Fraternity Council President;
@@ -167,8 +167,8 @@ A.  Student Senate shall consist of the following types of members:
     #.  A Student Senator may send a proxy to a regular meeting of Student Senate no more than two (2) times per half session..
     #.  A Student Senator may have absences removed from his or her record upon completion of their Engagement Hour requirements. Thereafter, one-half (1/2) absence will be removed for every additional completion of one (1) Engagement Hour. Absences may also be removed by other participation in the activities of Student Senate as deemed appropriate by the Chair of Student Senate. This participation must occur within thirty (30) days of the recorded one-half (1/2) absence.
 #.  Removal of Student Senators for Attendance Violations:
-    1.  Three (3) absences from regular meetings of Student Senate or three (3) absences from regular meetings of a Student Senator’s standing committee, during a single half session of Student Senate, count as grounds for the removal of that Student Senator from Student Senate.
-        a.  Should a Student Senator’s standing committee assignment change during a given half session, his or her attendance record shall follow him or her to his or her new committee.
+    1.  Three (3) absences from regular meetings of Student Senate or three (3) absences from regular meetings of a Student Senator's standing committee, during a single half session of Student Senate, count as grounds for the removal of that Student Senator from Student Senate.
+        a.  Should a Student Senator's standing committee assignment change during a given half session, his or her attendance record shall follow him or her to his or her new committee.
         #.  If a Student Senator accrues two (2) absences from regular meetings of Student Senate, or two (2) absences from the standing committee to which s/he is assigned, during a single half session of Student Senate, then the Chair of Student Senate must notify that Student Senator that if s/he accrues another absence during that semester, s/he will be removed from office.
     #.  When a Student Senator has exceeded his or her permitted absence allotment, the Chair of Student Senate is responsible for notifying that individual, via e-mail, of his or her removal from office. Upon notification, the relevant Student Senate seat is immediately declared vacant.
 #.  Removal of Members-at-Large:
@@ -180,7 +180,7 @@ A.  Student Senate shall consist of the following types of members:
 #.  Impeachment of a Student Senator:
     1.  A request for the impeachment of a Student Senator may be made to the Student Senate Chair by way of either:
         a.  a two-thirds (2/3) vote of Student Senate;
-        #.  a petition – validated by the Student Senate Executive Committee – containing the printed names, signatures, and AndrewIDs of one-fourth (1/4) of the relevant Student Senator’s constituency.
+        #.  a petition - validated by the Student Senate Executive Committee - containing the printed names, signatures, and AndrewIDs of one-fourth (1/4) of the relevant Student Senator's constituency.
     #.  Upon receiving a request for impeachment, the Chair of Student Senate must announce the impeachment request, along with the reasons for the impeachment request, no later than the first regular meeting of Student Senate that occurs at least one (1) week after receipt of the impeachment request.
     #.  Impeachment hearings shall take place at the first regular meeting following the announcement of the request for impeachment at which three-fourths (3/4) of the seated Student Senators are present.
     #.  A three-fourths (3/4) vote of the Student Senators present at the impeachment hearing shall be sufficient to remove the Student Senator from office.
@@ -214,20 +214,20 @@ A.  Student Senate shall consist of the following types of members:
                     (#)  A voter may rank as many or as few candidates as they would like.
                     (#)  A voter may elect to designate "No Confidence" at any rank.
                 (#)  A number of votes needed to elect a candidate shall be established, and referred to as the _election threshold_. The election threshold shall be calculated using the Droop quota. For a definition of this quota, please see Appendix A to this document.
-                (#)  In each round of the election, vote counting shall start with the tabulation of each voter’s preferred candidate, of the candidates remaining. These remaining candidates will from here on referred to as _active candidates_.
+                (#)  In each round of the election, vote counting shall start with the tabulation of each voter's preferred candidate, of the candidates remaining. These remaining candidates will from here on referred to as _active candidates_.
                 (#)  If there are candidates whose vote totals meet or exceed the election threshold, those candidates are considered elected. Votes exceeding the threshold are considered the candidate's _surplus votes_. If there are no remaining vacant seats, the election is complete. Otherwise, the election continues.
                 (#)  For each elected candidate from subsection IV, their vote surplus shall be redistributed in the following procedure:
                     (A)  The fractional value of each vote to be redistributed is calculated by dividing the number of surplus votes for the candidate by the total votes received by said candidate.
                     (#)  This fractional value will then be applied to each ballot for the elected candidate, and each of these tabulated fractional ballots are transferred to the next active candidate ranked, or discarded if the ballot is contains no more active candidates. Such a ballot containing no more active candidates will then on be referred to as an _exhausted ballot_.
                     (#)  Following the redistribution of surplus votes, the process of counting votes and distributing surplus votes of any winning candidates, as described in subsections II through V above, is repeated. If no surplus votes were redistributed, the election shall proceed to subsection VI below.
-                (#)  The candidate with the least number of votes shall be removed from the election, and referred to from here on as an _eliminated candidate_. Each of that candidate’s ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked, or discarded if the ballot is exhausted.
+                (#)  The candidate with the least number of votes shall be removed from the election, and referred to from here on as an _eliminated candidate_. Each of that candidate's ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked, or discarded if the ballot is exhausted.
                     (A)  If there is a tie as to the candidate with the least number of votes, the entire tied set shall be eliminated if their combined vote count is less than that of the next-highest candidate.
                     (#)  If there is a tie as to the candidate with the least number of votes, and the above does not apply, the candidate with the least number of votes in the previous round shall be eliminated.
                     (#)  If there is still a tie, the procedure described in subsection B. above is repeated for the next-preceding round until the tie is broken.
                     (#)  If this was the first round of voting, or the above conditions do not apply in the case of a tie for the candidate to be eliminated, then the candidate in the tie with the smaller number of next-choice preferences (i.e. second-choice in the current round of counting) shall be eliminated. Should this also be a tie, this process will continue down the list of preferences until one candidate has a larger number of votes in a certain preference level.
-                    (#)  If at the end of these steps a break in the tie of candidate with the least number of votes cannot be broken, then the facilitator of the election shall refer to the random elimination ordering. The candidate whose AndrewID’s first character appears first according to the random elimination ordering shall be eliminated from the election. If there is more than one candidate with this character appearing first in their AndrewID, the candidate eliminated will be determined by the first distinct character in their AndrewID, with the character appearing first in the random elimination ordering signaling the candidate to be eliminated. The eliminated candidate’s ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked.
+                    (#)  If at the end of these steps a break in the tie of candidate with the least number of votes cannot be broken, then the facilitator of the election shall refer to the random elimination ordering. The candidate whose AndrewID's first character appears first according to the random elimination ordering shall be eliminated from the election. If there is more than one candidate with this character appearing first in their AndrewID, the candidate eliminated will be determined by the first distinct character in their AndrewID, with the character appearing first in the random elimination ordering signaling the candidate to be eliminated. The eliminated candidate's ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked.
                 (#)  If the number of "No Confidence" votes exceeds the election threshold at any point in counting, then there shall be a vacancy in any remaining unfilled seats in the constituency in question. If not, and the "No Confidence" option has the fewest votes in any round of voting, it may be eliminated from the election, by the process described above for any candidate.
-                    (A)  Should the conditions of Subsection iii(VI)(E) apply, then the option of “No Confidence” may not be eliminated from such a tie by the random elimination ordering.
+                    (A)  Should the conditions of Subsection iii(VI)(E) apply, then the option of "No Confidence" may not be eliminated from such a tie by the random elimination ordering.
                 (#)  This process of counting votes, distributing surplus votes of winning candidates, and eliminating losing candidates, as described in subsections II through VII above, is repeated until all seats are filled.
                     (A)  Should the number of remaining candidates be equal to or less than the number of remaining seats, then all those candidates who have received a higher percentage of votes than currently held by the "No Confidence" option shall win the remaining seats.
                     (#)  Should no active candidates remain after all rounds of counting votes have been completed, and the number of "No Confidence" votes does not exceed a simple majority of votes cast, then there shall be a vacancy in the remaining unfilled seats of the constituency in question.
@@ -253,14 +253,14 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
     #.  The term of service for the Student Senate Vice Chair shall be from the time that Student Senate approves their nomination until the end of the term of service for the Student Senate Chair.
     #.  The term of service for the Student Senate Clerk shall be determined by the terms of employment established upon the hiring of the Student Senate Clerk.
 #.  Impeachment of Officers:
-    #.  To initiate impeachment proceedings for any member of the Student Government Executive Committee, a petition signed by at least one-half (1/2) of the seated Student Senators shall be presented to the Student Senate Chair asking for removal of an elected official from that official’s elected post.
+    #.  To initiate impeachment proceedings for any member of the Student Government Executive Committee, a petition signed by at least one-half (1/2) of the seated Student Senators shall be presented to the Student Senate Chair asking for removal of an elected official from that official's elected post.
         a.  If the Student Senate Chair is named in the impeachment petition, it shall be presented to the remaining members of the Student Senate Executive Committee. In such cases, the remaining members of the Student Senate Executive Committee shall choose a representative to preside over the impeachment process.
     #.  At the regular Student Senate meeting immediately following presentation of the petition, Student Senate shall vote on removal of the official. Removal of that officer requires a two-thirds (2/3) supermajority vote of approval from the Student Senators present at that meeting.
     #.  Upon a successful vote to remove a member of the Student Senate Executive Committee from office, that office shall immediately be declared vacant.
 #.  Resignation:
     1.  The Chair of Student Senate may resign from his or her office by submitting notice of that resignation, via e-mail, to the Student Senate Executive Committee.
     #.  The Student Senate Clerk, Sergeant at Arms, or any Standing Internal Committee Chair may resign from their office by submitting notice of their resignation, via e-mail, to the Chair of Student Senate.
-        a.  The Student Senate Clerk is expected to provide three (3) weeks’ notice of his or her resignation.
+        a.  The Student Senate Clerk is expected to provide three (3) weeks' notice of his or her resignation.
 #.  Vacancy:
     1.  The Student Senate Executive Committee must notify Student Senate within three (3) days of the removal or resignation of an elected officer.
 #.  Election of Officers:
@@ -283,7 +283,7 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
             (#)  The voting procedure for filling each office shall be kept separate.
         #.  The candidate receiving the majority of the available votes shall be the new officer.
             (i)  Abstensions shall not count toward the majority.
-            (#)  If no candidate receives a majority of the available votes, and a majority of the available votes are not votes of no confidence, then a run-off election shall be held. The meeting chair shall decide which candidates’ names shall stand for the run-off election. By way of a majority vote, Student Senate may add another candidate’s name to the run-off ballot.
+            (#)  If no candidate receives a majority of the available votes, and a majority of the available votes are not votes of no confidence, then a run-off election shall be held. The meeting chair shall decide which candidates' names shall stand for the run-off election. By way of a majority vote, Student Senate may add another candidate's name to the run-off ballot.
             (#)  This process shall continue until a either single candidate receives a majority of the available votes, or a majority of the available votes are votes of no confidence.
 #.  Duties and Powers of the Chair of Student Senate:
     1.  General Duties of the Chair of Student Senate:
@@ -302,9 +302,9 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
         #.  Sit on the Student Government Executive Committee and the Student Government Board of Directors;
         #.  Preside over the process of responding to a Presidential Veto of Student Senate legislation;
         #.  Notify Student Senate and the remaining members of the Student Government Executive Committee regarding the resignation of any member of the Student Government Executive Committee;
-        #.  Preside over, in coordination with the Graduate Student Assembly President, the impeachment process for the Student Body President, Vice President, Vice President for Finance, and/or Vice President for Organizations – if and when an impeachment request is made;
+        #.  Preside over, in coordination with the Graduate Student Assembly President, the impeachment process for the Student Body President, Vice President, Vice President for Finance, and/or Vice President for Organizations - if and when an impeachment request is made;
         #.  Preside over the process of appealing a decision of the Committee on Student Organizations for any student organization that notifies the Student Senate Chair of such an appeal;
-        #.  Appoint, in coordination with the Graduate Student Assembly President, an Interim President, any time the Student Body Vice President is unable to fill a vacancy in the Student Body President’s seat;
+        #.  Appoint, in coordination with the Graduate Student Assembly President, an Interim President, any time the Student Body Vice President is unable to fill a vacancy in the Student Body President's seat;
         #.  Preside over, in coordination with the Graduate Student Assembly President, the process of filling a vacant Student Body President, Vice President for Finance, and/or Vice President for Organizations seat;
         #.  Sit on the Joint Funding Committee, or appoint a permanent representative to fill the seat designated for the Student Senate Chair;
     #.  Powers of the Chair of Student Senate:
@@ -331,14 +331,14 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
         #.  Appoint a Vice Chair from among the standing committee members, to act in the absence of the Chair of the committee;
         #.  Report committee activities to Student Senate at regular meetings.
     #.  Duties of the Chair of the Finance Committee:
-        a.  Coordinate with the Student Body Vice President for Finance and the Department of Student Activities to ensure that Student Senate’s budget is based on appropriate projections with respect to the expected number of student activities fee paying undergraduate students, and to ensure that the disbursement of Activities Fee money to Student Senate accounts are made in accord with the policies laid out in the Carnegie Mellon University _Student Body Constitution_, the Carnegie Mellon University _Student Government Fiscal Policy_, these bylaws, and the Carnegie Mellon University _Student Senate Fiscal Policy_;
-        #.  Provide a written or electronic report summarizing Student Senate’s financial transactions of the past month to all Student Senators no later than the third week of each complete month of the Academic Calendar.
+        a.  Coordinate with the Student Body Vice President for Finance and the Department of Student Activities to ensure that Student Senate's budget is based on appropriate projections with respect to the expected number of student activities fee paying undergraduate students, and to ensure that the disbursement of Activities Fee money to Student Senate accounts are made in accord with the policies laid out in the Carnegie Mellon University _Student Body Constitution_, the Carnegie Mellon University _Student Government Fiscal Policy_, these bylaws, and the Carnegie Mellon University _Student Senate Fiscal Policy_;
+        #.  Provide a written or electronic report summarizing Student Senate's financial transactions of the past month to all Student Senators no later than the third week of each complete month of the Academic Calendar.
             (i) This report shall include the total amount of money spent from the Student Senate Operating Account during the current fiscal year as well as the total amount of money remaining in the account.
     #.  Powers of the Chair of the Finance Committee:
         a.  Review all budgetary categories of any student organization that receives funds from Student Senate;
         #.  Recommend to the Student Body Vice President for Finance that the accounts of a student organization that receives funds from Student Senate be frozen;
             (i) The Chair of the Finance Committee must notify the Chair of Student Senate and the Finance Committee within one (1) week of placing any such request.
-        #.  Schedule audits and collective inventories for Student Senate’s accounts and for the accounts of groups receiving funding from Student Senate;
+        #.  Schedule audits and collective inventories for Student Senate's accounts and for the accounts of groups receiving funding from Student Senate;
         #.  Subpoena financial records involving funds allocated by Student Senate.
 #.  Sergeant at Arms:
     1.  Duties of the Sergeant at Arms:
@@ -374,7 +374,7 @@ A.  Regular Meetings:
         a.  Legislation which has already been approved by a committee of Student Senate may be voted on by Student Senate at the regular meeting where it is initially presented to Student Senate.
         #.  Legislation which has not passed through a Student Senate standing committee may not be voted on during the Student Senate meeting in which it is introduced unless a motion to vote immediately upon the legislation carries by a two-thirds (2/3) supermajority vote.
         #.  All proposed legislation shall be presented in writing and, if desired by a voting member of Student Senate, shall be read aloud before it is discussed. The same shall hold for all motions and amendments pertaining to that legislation.
-        #.  In the case of a Presidential veto of legislation passed by Student Senate, the Chair of Student Senate must read the veto at the first regular Student Senate meeting following the Student Body President’s announcement of the veto.
+        #.  In the case of a Presidential veto of legislation passed by Student Senate, the Chair of Student Senate must read the veto at the first regular Student Senate meeting following the Student Body President's announcement of the veto.
     #.  Voting
         a.  There shall be four (4) distinct voting methods used by Student Senate. They are listed below in order of greatest precedence to lowest precedence:
             (i)  Secret ballot
@@ -460,7 +460,7 @@ A.  The following shall be standing committees of Student Senate:
     1.  Review all budgetary categories of any student organization that receives funds from Student Senate;
     #.  Recommend to the Student Body Vice President for Finance that the accounts of a student organization that receives funds from Student Senate be frozen;
     #.  The Chair of the Finance Committee must notify the Chair of Student Senate and the Finance Committee within one (1) week of placing any such request.
-    #.  Schedule audits and collective inventories for Student Senate’s accounts and for the accounts of groups receiving funding from Student Senate;
+    #.  Schedule audits and collective inventories for Student Senate's accounts and for the accounts of groups receiving funding from Student Senate;
     #.  Subpoena financial records involving funds allocated by Student Senate.
 #.  Duties of the Internal Development Committee:
     1.  Plan and coordinate educational workshops and seminars for Student Senate and its standing internal committees;
@@ -489,7 +489,7 @@ A.  The undergraduate student body can compel Student Senate to act on any matte
     1.  A New Issue Petition must contain the signatures, printed names, and Carnegie Mellon AndrewIDs of at least fifty (50) members of the undergraduate student body.
     #.  The Executive Committee of Student Senate shall have one (1) week from receipt of a New Issue Petition to validate that petition.
     #.  Student Senate must address the issue contained within a New Issue Petition within two (2) weeks of its validation.
-    #.  The Student Senate Executive Committee is required to notify all members of the undergraduate student body who signed the New Issue Petition, within four (4) weeks of its validation, of Student Senate’s response to the petition.
+    #.  The Student Senate Executive Committee is required to notify all members of the undergraduate student body who signed the New Issue Petition, within four (4) weeks of its validation, of Student Senate's response to the petition.
 #.  The undergraduate student body can compel Student Senate to reconsider any legislative vote taken within the previous thirty (30) days by submitting a _Reconsideration Petition_ to any member of the Student Senate Executive Committee.
     1.  A Reconsideration Petition must contain the signatures, printed names, and Carnegie Mellon AndrewIDs of at least five (5) per cent of the undergraduate student body.
     #.  The Executive Committee of Student Senate shall have one (1) week from receipt of a Reconsideration Petition to validate that petition.
@@ -537,25 +537,25 @@ _Note: In September 2009 the Amendment procedure for the Student Senate Bylaws w
 -  Fall 2006: Strengthened restrictions against funding reimbursements.
 -  April 2009:
     -  II.II.A.1.c: changed to permit proxy four times per semester instead of per month.
-    -  III.II.C: added “Call a special meeting of Senate” to powers of the Senate Chair
-    -  III.X.F: added “host events that benefit the entire student body” to duties of the Campus Life Committee
-    -  IV.II: deleted “Oversee the activities of all organizations that are on probation” from ExComm duties
+    -  III.II.C: added "Call a special meeting of Senate" to powers of the Senate Chair
+    -  III.X.F: added "host events that benefit the entire student body" to duties of the Campus Life Committee
+    -  IV.II: deleted "Oversee the activities of all organizations that are on probation" from ExComm duties
     -  V.I: Allow Senate Chair to call special meetings.
     -  VII.XI.B: Make CoSO, instead of ExComm, responsible for groups on probation; remove requirement for organizations on probation to report names of their group members.
 -  September 3, 2009:
     -  Added page numbers and changed numbering (& references) to new format (i.e. Article III.A.1.a.(iv)).
     -  Amended the amendment procedure:
-        -  XI.A changed from ‘Proposed amendments to these Bylaws must be submitted in writing to the Student Senate at a regular meeting of Student Senate’ to ‘To be considered for approval, an amendment to these Bylaws must be presented in writing at a regular meeting of Student Senate.’
+        -  XI.A changed from 'Proposed amendments to these Bylaws must be submitted in writing to the Student Senate at a regular meeting of Student Senate' to 'To be considered for approval, an amendment to these Bylaws must be presented in writing at a regular meeting of Student Senate.'
         -  Removed requirement that ExComm makes a recommendation on proposed amendments.
-        -  Weakened timing constraints: used to require that the proposed amendment be voted upon at the next regular meeting of Senate (with a 2/3 vote). Changed to allow Senate to wait up to 3 weeks before voting on the proposal, and to allow Senate to vote immediately upon presentation, if there is a ¾ vote in favor of this, and if Senate receives the material at least 1 week before the initial presentation.
+        -  Weakened timing constraints: used to require that the proposed amendment be voted upon at the next regular meeting of Senate (with a 2/3 vote). Changed to allow Senate to wait up to 3 weeks before voting on the proposal, and to allow Senate to vote immediately upon presentation, if there is a 3/4 vote in favor of this, and if Senate receives the material at least 1 week before the initial presentation.
         -  Added requirement that the Constitutional Advisor keeps a record of all amendments to these Bylaws, as an appendix to the bylaws.
 -  April 6, 2011:
-    -  All references to notification “in writing” changed to notification “via e-mail” – for the sake of clarity.
-    -  Article I.A.1: Clause expanded to include “to work toward enhancing the overall undergraduate student experience on campus” in the general purpose of Senate.
+    -  All references to notification "in writing" changed to notification "via e-mail" - for the sake of clarity.
+    -  Article I.A.1: Clause expanded to include "to work toward enhancing the overall undergraduate student experience on campus" in the general purpose of Senate.
     -  Article II: Terms & Definitions arranged in alphabetical order.
     -  Article IV.B.1.b: Clause revised to clarify the constraints around accelerated/integrated masters students serving on Student Senate.
-    -  Article IV.J.3: Clause c inserted and clause d revised to specify voting procedures, including the disallowing of absentee ballots, the inclusion of “no confidence” votes, and the ability (or lack thereof) for candidates to vote in an election.
-    -  Article VI.G.3: Clause e inserted and clause f revised to specify voting procedures, including the disallowing of absentee ballots, the inclusion of “no confidence” votes, and the ability (or lack thereof) for candidates to vote in an election.
+    -  Article IV.J.3: Clause c inserted and clause d revised to specify voting procedures, including the disallowing of absentee ballots, the inclusion of "no confidence" votes, and the ability (or lack thereof) for candidates to vote in an election.
+    -  Article VI.G.3: Clause e inserted and clause f revised to specify voting procedures, including the disallowing of absentee ballots, the inclusion of "no confidence" votes, and the ability (or lack thereof) for candidates to vote in an election.
     -  Article VI.H.1.j: Revised to include the (newly created) University Center Allocations Board.
     -  Article VI.J.1: Numbering of sub-clauses fixed.
     -  Article VI.J: Clauses 2 and 3 inserted to specify the duties and powers of the Finance Chair.

@@ -1,4 +1,4 @@
-.PHONY: all clean pdf html docx spellcheck
+.PHONY: all clean pdf html docx
 
 all: pdf html docx
 
