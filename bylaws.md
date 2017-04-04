@@ -93,9 +93,8 @@ A.  Student Senate shall consist of the following types of members:
     1.  Student Senators shall be elected as representatives of their constituency.
         a.  Each constituency shall be represented by either one (1) Student Senator, or one (1) Student Senator for every one hundred forty (140) constituents (or majority fraction thereof) – whichever is greater.
         #.  Constituents entering an integrated or accelerated graduate program at Carnegie Mellon University may represent their undergraduate constituency during their time in that program provided they are not also serving as a Graduate Student Assembly Representative or as a member of the Graduate Student Assembly Executive Committee.
-        #.  Student Senators shall normally be elected in accord with the procedure set out in the Carnegie Mellon University _Student Government Election Rules_.
+        #.  Student Senators shall normally be elected in accord with the procedure for filling Vacant Student Senate Seats as set out in Article IV, Subsection J of these bylaws.
             (i)  Vacant Student Senate seats shall be filled according to the procedure for filling vacancies set out in these bylaws.
-            (#)  Ties in the election of Student Senators shall be broken by a majority vote at a meeting of Student Senate.
         #.  If a Student Senator changes constituencies after s/he is elected, s/he shall serve the remainder of the current full session as a representative of the constituency from which s/he was elected.
     #.  Term of Service:
         a.  For a Student Senator elected by the undergraduate student body, their term of service begins at the beginning of the full session for which s/he was elected to serve.
@@ -191,27 +190,47 @@ A.  Student Senate shall consist of the following types of members:
     1.  A Student Senator or Member-at-Large may resign from their position by submitting notice of their resignation, via e-mail, to the Chair of Student Senate. Upon notification, the relevant seat becomes vacant.
         a.  Should the Chair of Student Senate wish to resign, s/he must submit notice of his or her resignation to all members of the Student Senate Executive Committee.
 #.  Vacant Student Senate Seats:
-    1.  Should a Student Senate seat become vacant, the Chair of Student Senate shall announce this vacancy, along with the deadline for receipt of petitions to fill the seat, at the first regular Student Senate meeting after which the seat becomes vacant.
+    1.  In the case of regular elections of Student Senate seats, the Elections Board shall serve as the facilitator of the election, as established in the _Student Body Constitution_. In the case of a vacancy throughout the current session of the Student Senate, the Student Senate Chair shall serve as the facilitator of the election. The relevant person or group facilitating this election will be referred to here on as the _facilitator of the election_.
+    #.  Should a Student Senate seat become vacant, the Chair of Student Senate shall announce this vacancy, along with the deadline for receipt of petitions to fill the seat.
+        a. Should this vacancy occur throughout the current session of the Student Senate, this announcement shall occur at the first regular Student Senate meeting after which the seat becomes vacant.
     #.  To become a candidate to fill a vacant seat, a member of the undergraduate student body must:
         a.  Be an Activities Fee paying member of the constituency represented by the vacant seat;
         #.  Submit a valid petition by the announced petition deadline.
-            (i)  A valid petition shall contain the printed names, signatures, and Carnegie Mellon AndrewIDs of twenty-five (25) members of the relevant constituency.
+            (i)  A valid petition shall contain the names, signatures, and Carnegie Mellon AndrewIDs of twenty-five (25) members of the relevant constituency.
             (#)  The Student Senate Executive Committee is responsible for validating any petitions received by the petition deadline within five (5) business days of its submission. If at least two (2) members of the Student Senate Executive Committee agree that a petition is not valid, then it is considered invalid.
-    #.  If at least one (1) valid petition is received by the announced deadline, then Student Senate shall hold an election for the relevant Student Senate seat at the first regular meeting of Student Senate following the validation of the petition(s).
-        a.  At the discretion of the Chair of Student Senate, candidates may be permitted to address Student Senate and respond to questions from the floor.
-            (i)  If one (1) candidate for a position is permitted to address Student Senate then all candidates for that position must be permitted to address Student Senate.
-        #.  At the discretion of the Chair of Student Senate, Student Senators may be permitted to discuss the candidate(s) for each position in the absence of all candidates for that position.
-            (i)  No minutes of this discussion shall be recorded.
+    #.  If at least one (1) valid petition is received by the announced deadline, then Student Senate shall hold an election for the relevant Student Senate seat. Should this vacancy occur throughout the current session of the Student Senate, Student Senate shall hold an election for the relevant seat at the first regular meeting of Student Senate following the validation of the petition(s).
+        a.  Once all petitions have been received, the facilitator of the election shall determine a random ordering, of the alphabet and the numbers zero through nine (0 through 9), for application in the case of a tie in the upcoming election. This ordering will be referred to from here on as the _random elimination ordering_, and shall be published publically prior to the voting process.
+        #.  Should this vacancy occur during the current session of the Student Senate, the following procedures may be followed.
+            (i)  At the discretion of the Chair of Student Senate, candidates may be permitted to address Student Senate and respond to questions from the floor.
+                (I)  If one (1) candidate for a position is permitted to address Student Senate then all candidates for that position must be permitted to address Student Senate.
+            (#)  At the discretion of the Chair of Student Senate, Student Senators may be permitted to discuss the candidate(s) for each position in the absence of all candidates for that position.
+                (I)  No minutes of this discussion shall be recorded.
         #.  Voting:
             (i)  A candidate in this election is not permitted to serve as a proxy while the election proceedings for the relevant vacant seat is taking place. As a result, a candidate cannot count toward quorum during this portion of a Student Senate meeting. However, a candidate may take on the duties of a proxy at any other point during the meeting, provided they are otherwise eligible to serve as a proxy.
             (#)  Absentee ballots are not permitted.
-            (#)  There are three voting options during an election: a vote in favor of a particular candidate, an abstention, and a vote of no confidence. A vote of no confidence is a vote against all candidates who are in the running for the relevant vacant seat.
-            (#)  The voting procedure for filling vacant seats associated with different constituencies shall be kept separate. However, if there are no more candidates in a particular constituency than there are vacancies, then the meeting Chair may opt for a slated vote. In this case, the three voting options are to vote in favor of the slate, against the slate, or to abstain.
-        #.  The candidate receiving the majority of the available votes shall be the winner of the election.
-            (i)  Abstentions shall not count toward the majority.
-            (#)  If no candidate receives a majority of the available votes, and a majority of the available votes are not votes of no confidence, then a run-off election shall be held. The meeting Chair shall decide which candidates’ names shall stand for the run-off election. By way of a majority vote, Student Senate may add another candidate’s name to the run-off ballot. The winner of the run-off vote is the candidate who receives the majority of available votes.
-            (#)  This process shall continue until either a single candidate receives a majority of the available votes, or a majority of the available votes are votes of no confidence.
-            (#)  In the event that there is a slated vote, the vote is concluded when a majority of the available votes are cast in favor of the slate. If a majority of the available votes are opposed to the slate, or if there is a tie, the meeting Chair must then proceed through the vote according to the regular, non-slated procedure.
+            (#)  Student Senators shall be elected in accord with the Single Transferable Voting method in order to achieve proportional representation, following the procedure set out below:
+                (I)  Each voter shall have one vote, ranking the candidates in their constituency for their vote in order of descending preference, with 1 (the first rank) representing the most preferred.
+                    (A)  No candidate may be ranked repeatedly, and no two candidates may be ranked equally.
+                    (#)  A voter may rank as many or as few candidates as they would like.
+                    (#)  A voter may elect to designate "No Confidence" at any rank.
+                (#)  A number of votes needed to elect a candidate shall be established, and referred to as the _election threshold_. The election threshold shall be calculated using the Droop quota. For a definition of this quota, please see Appendix A to this document.
+                (#)  In each round of the election, vote counting shall start with the tabulation of each voter’s preferred candidate, of the candidates remaining. These remaining candidates will from here on referred to as _active candidates_.
+                (#)  If there are candidates whose vote totals meet or exceed the election threshold, those candidates are considered elected. Votes exceeding the threshold are considered the candidate's _surplus votes_. If there are no remaining vacant seats, the election is complete. Otherwise, the election continues.
+                (#)  For each elected candidate from subsection IV, their vote surplus shall be redistributed in the following procedure:
+                    (A)  The fractional value of each vote to be redistributed is calculated by dividing the number of surplus votes for the candidate by the total votes received by said candidate.
+                    (#)  This fractional value will then be applied to each ballot for the elected candidate, and each of these tabulated fractional ballots are transferred to the next active candidate ranked, or discarded if the ballot is contains no more active candidates. Such a ballot containing no more active candidates will then on be referred to as an _exhausted ballot_.
+                    (#)  Following the redistribution of surplus votes, the process of counting votes and distributing surplus votes of any winning candidates, as described in subsections II through V above, is repeated. If no surplus votes were redistributed, the election shall proceed to subsection VI below.
+                (#)  The candidate with the least number of votes shall be removed from the election, and referred to from here on as an _eliminated candidate_. Each of that candidate’s ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked, or discarded if the ballot is exhausted.
+                    (A)  If there is a tie as to the candidate with the least number of votes, the entire tied set shall be eliminated if their combined vote count is less than that of the next-highest candidate.
+                    (#)  If there is a tie as to the candidate with the least number of votes, and the above does not apply, the candidate with the least number of votes in the previous round shall be eliminated.
+                    (#)  If there is still a tie, the procedure described in subsection B. above is repeated for the next-preceding round until the tie is broken.
+                    (#)  If this was the first round of voting, or the above conditions do not apply in the case of a tie for the candidate to be eliminated, then the candidate in the tie with the smaller number of next-choice preferences (i.e. second-choice in the current round of counting) shall be eliminated. Should this also be a tie, this process will continue down the list of preferences until one candidate has a larger number of votes in a certain preference level.
+                    (#)  If at the end of these steps a break in the tie of candidate with the least number of votes cannot be broken, then the facilitator of the election shall refer to the random elimination ordering. The candidate whose AndrewID’s first character appears first according to the random elimination ordering shall be eliminated from the election. If there is more than one candidate with this character appearing first in their AndrewID, the candidate eliminated will be determined by the first distinct character in their AndrewID, with the character appearing first in the random elimination ordering signaling the candidate to be eliminated. The eliminated candidate’s ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked.
+                (#)  If the number of "No Confidence" votes exceeds the election threshold at any point in counting, then there shall be a vacancy in any remaining unfilled seats in the constituency in question. If not, and the "No Confidence" option has the fewest votes in any round of voting, it may be eliminated from the election, by the process described above for any candidate.
+                    (A)  Should the conditions of Subsection iii(VI)(E) apply, then the option of “No Confidence” may not be eliminated from such a tie by the random elimination ordering.
+                (#)  This process of counting votes, distributing surplus votes of winning candidates, and eliminating losing candidates, as described in subsections II through VII above, is repeated until all seats are filled.
+                    (A)  Should the number of remaining candidates be equal to or less than the number of remaining seats, then all those candidates who have received a higher percentage of votes than currently held by the "No Confidence" option shall win the remaining seats.
+                    (#)  Should no active candidates remain after all rounds of counting votes have been completed, and the number of "No Confidence" votes does not exceed a simple majority of votes cast, then there shall be a vacancy in the remaining unfilled seats of the constituency in question.
     #.  If no valid petitions are received by the announced deadline, the Chair of Student Senate shall begin the process again by announcing a new deadline for petitions.
 
 # Article V. Student Senate Fiscal Policy.
@@ -493,7 +512,12 @@ A.  To be considered for approval, an amendment to these bylaws must be presente
     #.  Student Senate may instead put the proposed amendment to a vote at the same meeting as its initial presentation on the basis of a three-fourths (3/4) supermajority vote in favor of such action. In such cases it is required that the proposed amendment be provided, via e-mail, to Student Senate at least one (1) week prior to its initial presentation to Senate.
 #.  A record of all amendments to these bylaws must be kept, by the Constitutional Advisor, as an appendix to these bylaws.
 
-# Appendix: Amendments to the Student Senate Bylaws
+# Appendix A: Definition of the Droop Quota for Single Transferable Vote Elections
+
+The Droop quota will be used to assign the number of votes needed to be elect a candidate in a Single Transferable Vote election for a vacant Student Senator seat. The value is equal to the total value of valid votes cast divided by the sum of one plus the number of seats to be filled, plus one. Expressed mathematically, this is equivalent to the [total value of valid votes / (1 + number of vacant seats)] + 1.
+
+
+# Appendix B: Amendments to the Student Senate Bylaws
 
 _Note: In September 2009 the Amendment procedure for the Student Senate Bylaws was changed to require that amendments be kept as an appendix to these bylaws. A partial list of amendments from March 19th, 1998 onward was available, and so it has also been included in this appendix. In April 2010 major revisions to the Student Senate Bylaws were approved by Student Senate, effectively replacing the old document with a new set of bylaws, and a separate document detailing Student Senate Fiscal Policy. The details of these changes are not included in this appendix, but all changes made to this document after the major revisions are recorded in this appendix._
 
@@ -536,7 +560,7 @@ _Note: In September 2009 the Amendment procedure for the Student Senate Bylaws w
     -  Article VI.J.1: Numbering of sub-clauses fixed.
     -  Article VI.J: Clauses 2 and 3 inserted to specify the duties and powers of the Finance Chair.
     -  Article XI.I: Deleted (inserted as Article VI.J.3).
--  May 2012: 
+-  May 2012:
     -  Article VI.J.2.b: Added a duty for the Finance Chair to give monthly reports to the Student Senate.
 -  October 2015:
     -  Article IV.B.3: Clauses added to define attendance requirements for New Member Caucus, and engagement hour requirements for Senators
