@@ -2,7 +2,7 @@
 
 echo 'Potential Misspellings:'
 for f in bylaws.md ; do
-	echo $f ; aspell list < $f | sort | uniq -c
+	echo $f ; aspell --add-extra-dicts=./templates/dictionary.en.pws list < $f | sort | uniq -c
 done
 
 echo ''
