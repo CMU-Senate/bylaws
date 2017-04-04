@@ -478,7 +478,7 @@ A.  The following shall be standing committees of Student Senate:
 #.  New Member Caucus:
     1.  All newly-elected senators and Members-at-Large shall participate in sessions of  the New Member Caucus.
         a.  Two (2) meetings of the New Member Caucus shall be held every half-session;
-        #.  Senators and MALs are required to attend one of the two (2) sessions;
+        #.  Senators and Members-at-Large are required to attend one of the two (2) sessions;
         #.  Failure to attend either of the two (2) sessions of the New Member Caucus shall count as one (1) absence for that Student Senator or Member-at- Large.
     #.  The New Member Caucus shall be chaired by the Chair of the Internal Development Committee.
     #.  Duties of the New Member Caucus:
@@ -543,14 +543,14 @@ _Note: In September 2009 the Amendment procedure for the Student Senate Bylaws w
     -  II.II.A.1.c: changed to permit proxy four times per semester instead of per month.
     -  III.II.C: added "Call a special meeting of Senate" to powers of the Senate Chair
     -  III.X.F: added "host events that benefit the entire student body" to duties of the Campus Life Committee
-    -  IV.II: deleted "Oversee the activities of all organizations that are on probation" from ExComm duties
+    -  IV.II: deleted "Oversee the activities of all organizations that are on probation" from the Executive Committee's duties
     -  V.I: Allow Senate Chair to call special meetings.
-    -  VII.XI.B: Make CoSO, instead of ExComm, responsible for groups on probation; remove requirement for organizations on probation to report names of their group members.
+    -  VII.XI.B: Make the Committee on Student Organizations, instead of the Executive Committee, responsible for groups on probation; remove requirement for organizations on probation to report names of their group members.
 -  September 3, 2009:
     -  Added page numbers and changed numbering (& references) to new format (i.e. Article III.A.1.a.(iv)).
     -  Amended the amendment procedure:
         -  XI.A changed from 'Proposed amendments to these Bylaws must be submitted in writing to the Student Senate at a regular meeting of Student Senate' to 'To be considered for approval, an amendment to these Bylaws must be presented in writing at a regular meeting of Student Senate.'
-        -  Removed requirement that ExComm makes a recommendation on proposed amendments.
+        -  Removed requirement that the Executive Committee makes a recommendation on proposed amendments.
         -  Weakened timing constraints: used to require that the proposed amendment be voted upon at the next regular meeting of Senate (with a 2/3 vote). Changed to allow Senate to wait up to 3 weeks before voting on the proposal, and to allow Senate to vote immediately upon presentation, if there is a 3/4 vote in favor of this, and if Senate receives the material at least 1 week before the initial presentation.
         -  Added requirement that the Constitutional Advisor keeps a record of all amendments to these Bylaws, as an appendix to the bylaws.
 -  April 6, 2011:
