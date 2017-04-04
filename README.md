@@ -11,7 +11,3 @@ Advantages of this method include the following:
 - Straightforward text format without pitfalls
 - Easy conversion to a multitude of alternative formats
 - Increased consistency and less room for errors
-
-TODO:
-
-- Updated version (only STV changes?)
