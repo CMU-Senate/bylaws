@@ -1,7 +1,7 @@
 ---
 title: Carnegie Mellon University
 subtitle: Student Senate Bylaws
-date: 'Adopted: April 1st, 2010. Revised: April 6th, 2011.'
+date: 'Adopted: April 1st, 2010. Revised: April 27th, 2017.'
 numbersections: no
 geometry: margin=1.25in
 ...
