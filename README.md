@@ -17,3 +17,4 @@ Usage
 - Use `./lint.sh` to check for errors including misspellings, non-ASCII characters and trailing whitespace.
 - Only propose changes to `bylaws.md` within pull requests. Always merge with rebase to ensure a linear history.
 - Create a new tag and GitHub release with each bylaws content revision that includes voting details and date.
+- Testing my commit priveleges
