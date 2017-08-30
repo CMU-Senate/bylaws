@@ -10,6 +10,19 @@ Advantages
 - Easy conversion to a multitude of alternative formats
 - Increased consistency and less room for errors
 
+Dependencies
+------------
+
+To generate output files and lint files, the following development dependencies must be installed.
+
+- make
+- aspell
+- pcregrep
+- pandoc
+- texlive-latex-base, texlive-fonts-recommended, texlive-latex-recommended
+
+On Ubuntu-based systems, use `sudo apt-get install make aspell pcregrep pandoc texlive-latex-base texlive-latex-recommended`.
+
 Usage
 -----
 
