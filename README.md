@@ -19,9 +19,9 @@ To generate output files and lint files, the following development dependencies 
 - aspell
 - pcregrep
 - pandoc
-- texlive-latex-base, texlive-fonts-recommended, texlive-latex-recommended
+- texlive-latex-base, texlive-fonts-recommended, texlive-latex-recommended, texlive-latex-extra
 
-On Ubuntu-based systems, use `sudo apt-get install make aspell pcregrep pandoc texlive-latex-base texlive-latex-recommended`.
+On Ubuntu-based systems, use `sudo apt-get install make aspell pcregrep pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra`.
 
 Usage
 -----
