@@ -283,7 +283,6 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
         #.  Designate a member of the Student Senate Executive Committee to Chair a regular Student Senate meeting when unable to fill the role and when no Vice Chair has been appointed;
         #.  Assign Student Senators and Members-at-Large to Student Senate standing committees, pending the approval of a majority of the Executive Committee of Student Senate;
         #.  Report to Student Senate the failure of a Student Senate standing committee to act upon matters assigned to it;
-        #.  Schedule, set the agenda for, and preside over regular meetings of the Member-at-Large Caucus;
         #.  Preside over the Student Senator impeachment process;
         #.  Notify any Student Senator or Member-at-Large when s/he is within one (1) absence of being removed from office;
         #.  Notify any Student Senator or Member-at-Large when s/he is removed from their seat;
