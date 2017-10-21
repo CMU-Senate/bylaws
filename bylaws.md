@@ -430,8 +430,8 @@ A.  The following shall be standing committees of Student Senate:
     #.  Announce to Student Senate any changes or proposed changes in the business services of Carnegie Mellon University;
     #.  Designate, in consultation with the Student Senate Chair, a representative to the following committees:
         a.  Dining Student Advisory Council;
-        #.  Parking Management Services Student Advisory Council;
-        #.  Parking Advisory Board;
+        #.  Parking and Transportation Advisory Committee;
+        #.  Facilities Management Services Student Advisory Committee;
         #.  Any other relevant bodies, at the discretion of the Chair of the Business Affairs Committee.
     #.  Function as liaison to the Vice President for Operations on departments and individuals responsible for business services at Carnegie Mellon University;
         a.  The Chair of the Business Affairs Committee shall fix meeting times with the Vice President for Operations at the start of every half-session.
