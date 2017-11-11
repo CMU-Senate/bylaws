@@ -473,7 +473,7 @@ A.  The following shall be standing committees of Student Senate:
         a.  Familiarize new members with the work of Student Senate;
         #.  Inform new members on the workings of Student Government, its governing documents, and _Robert's Rules of Order, Newly Revised_;
         #.  Educate new members on the functions and objectives of the standing committees of Student Senate;
-        #.  Be available for reports and ex-officio presentations as determined by the Executive Committee of Student Senate.
+        #.  Be available for reports and ex officio presentations as determined by the Executive Committee of Student Senate.
 
 # Article X. Student Body Directives.
 
@@ -524,8 +524,8 @@ _Note: In September 2009 the Amendment procedure for the Student Senate Bylaws w
 -  Spring 2002: Added member at large caucus, added Business Affairs and Campus Life Committees, removed Campus Affairs Committee, changed names of Public Relations and Internal Affairs committees to Communications and Internal Development, respectively
 -  Spring 2003: Changed wording of sessions to semesters in section about attendance, added section that requires votes on committee chairs every semester
 -  Fall 2004: Changed a majority from being based on members present to members voting, changed the entitlement of a non-funded organization to leaflet and petition to poster
--  Spring 2004: Changed Treasurer to Vice President of Finance, added the Student Body Dining Chair to the list of ex-officio officers, changed rules of proxies to only not allow other senators or Executive officers, and required members-at-large to be on committees.
--  Spring 2006: Changed name of Funding and Recognition Committee to Finance Committee. Removed Article on Student Organizations to match the Constitution of Student Body. Added media restriction notification requirement to Fiscal Policy. Added Joint Funding Committee and Committee on Student Organizations as ex-officio of the general body. Defined political and charitable events in Student Senate Fiscal Policy.
+-  Spring 2004: Changed Treasurer to Vice President of Finance, added the Student Body Dining Chair to the list of ex officio officers, changed rules of proxies to only not allow other senators or Executive officers, and required members-at-large to be on committees.
+-  Spring 2006: Changed name of Funding and Recognition Committee to Finance Committee. Removed Article on Student Organizations to match the Constitution of Student Body. Added media restriction notification requirement to Fiscal Policy. Added Joint Funding Committee and Committee on Student Organizations as ex officio of the general body. Defined political and charitable events in Student Senate Fiscal Policy.
 -  Fall 2006: Strengthened restrictions against funding reimbursements.
 -  April 2009:
     -  II.II.A.1.c: changed to permit proxy four times per semester instead of per month.
