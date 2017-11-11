@@ -9,3 +9,8 @@ echo ''
 
 echo 'Non-ASCII characters:'
 pcregrep --color='auto' -n "[\x80-\xFF]" bylaws.md
+
+echo ''
+
+echo 'Trailing whitespace:'
+grep -Hn '[[:blank:]]$' bylaws.md

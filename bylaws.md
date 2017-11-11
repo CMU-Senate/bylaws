@@ -6,7 +6,7 @@ numbersections: no
 geometry: margin=1.25in
 ...
 
-# Article 1. Purpose and Scope.
+# Article I. Purpose and Scope.
 
 A.  The purpose of these bylaws is to establish the structures and operating procedures of Student Senate, which is the undergraduate legislative branch of Carnegie Mellon University student government, created in the Carnegie Mellon University _Student Body Constitution_.
     1.  The general purpose of Student Senate is to represent the voice of the Carnegie Mellon University undergraduate student body, to work toward enhancing the overall undergraduate student experience on campus, and to oversee the allocation of the portion of the Activities Fee under the direct control of Student Senate.
@@ -162,10 +162,10 @@ A.  Student Senate shall consist of the following types of members:
     1.  A Student Senator may accrue two (2) absences from regular meetings of Student Senate per half session.
     #.  A Member-at-Large may accrue three (3) absences from regular meetings of Student Senate per half session.
     #.  A meeting at which a Student Senator (or their designated proxy) or a Member-at-Large is not present for a scheduled roll call during a regular Student Senate meeting shall count as one-half (1/2) absence for that Student Senator or Member-at-Large.
-    #.  There may not be more than two (2) scheduled roll calls during a regular Student Senate meeting.
-    #.  A Student Senator may accrue two (2) absences from regular meetings of the Student Senate standing committee of which they are a member.
-    #.  A Student Senator may send a proxy to a regular meeting of Student Senate no more than two (2) times per half session..
-    #.  A Student Senator may have absences removed from their record upon completion of their Engagement Hour requirements. Thereafter, one-half (1/2) absence will be removed for every additional completion of one (1) Engagement Hour. Absences may also be removed by other participation in the activities of Student Senate as deemed appropriate by the Chair of Student Senate. This participation must occur within thirty (30) days of the recorded one-half (1/2) absence.
+        a.  There may not be more than two (2) scheduled roll calls during a regular Student Senate meeting.
+    #.  A Student Senator may accrue two (2) absences from regular meetings of the Student Senate standing committee of which s/he is a member.
+    #.  A Student Senator may send a proxy to a regular meeting of Student Senate no more than two (2) times per half session.
+    #.  A Student Senator may have absences removed from his or her record upon completion of their Engagement Hour requirements. Thereafter, one-half (1/2) absence will be removed for every additional completion of one (1) Engagement Hour. Absences may also be removed by other participation in the activities of Student Senate as deemed appropriate by the Chair of Student Senate. This participation must occur within thirty (30) days of the recorded one-half (1/2) absence.
 #.  Removal of Student Senators for Attendance Violations:
     1.  Three (3) absences from regular meetings of Student Senate or three (3) absences from regular meetings of a Student Senator's standing committee, during a single half session of Student Senate, count as grounds for the removal of that Student Senator from Student Senate.
         a.  Should a Student Senator's standing committee assignment change during a given half session, their attendance record shall follow them to their new committee.
