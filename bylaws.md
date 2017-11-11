@@ -95,11 +95,11 @@ A.  Student Senate shall consist of the following types of members:
         #.  Constituents entering an integrated or accelerated graduate program at Carnegie Mellon University may represent their undergraduate constituency during their time in that program provided they are not also serving as a Graduate Student Assembly Representative or as a member of the Graduate Student Assembly Executive Committee.
         #.  Student Senators shall normally be elected in accord with the procedure for filling Vacant Student Senate Seats as set out in Article IV, Subsection J of these bylaws.
             (i)  Vacant Student Senate seats shall be filled according to the procedure for filling vacancies set out in these bylaws.
-        #.  If a Student Senator changes constituencies after s/he is elected, s/he shall serve the remainder of the current full session as a representative of the constituency from which s/he was elected.
+        #.  If a Student Senator changes constituencies after they are elected, they shall serve the remainder of the current full session as a representative of the constituency from which they were elected.
     #.  Term of Service:
-        a.  For a Student Senator elected by the undergraduate student body, their term of service begins at the beginning of the full session for which s/he was elected to serve.
-        #.  For a Student Senator elected by Student Senate to fill a vacant Student Senate seat, their term of service begins at the end of the meeting during which s/he is elected.
-        #.  The term of service for all Student Senators ends at the end of the full session for which s/he were elected to serve.
+        a.  For a Student Senator elected by the undergraduate student body, their term of service begins at the beginning of the full session for which they were elected to serve.
+        #.  For a Student Senator elected by Student Senate to fill a vacant Student Senate seat, their term of service begins at the end of the meeting during which they are elected.
+        #.  The term of service for all Student Senators ends at the end of the full session for which they were elected to serve.
     #.  Duties of Student Senators:
         a.  Attend regular and special meetings of Student Senate;
         #.  Attend joint meetings of Student Senate and the Graduate Student Assembly;
@@ -114,7 +114,7 @@ A.  Student Senate shall consist of the following types of members:
         f.  Designate a proxy to attend Student Senate meetings when unable to attend those meetings themselves;
             (i)  A Student Senator's proxy must be a member of the constituency that the Student Senator represents.
             (#)  A proxy may not be a Student Senator or a member of the Executive Branch of Student Senate.
-            (#)  A Student Senator's proxy assumes the duties and powers of that Student Senator for the duration of the meeting during which s/he is serving as that Student Senator's proxy.
+            (#)  A Student Senator's proxy assumes the duties and powers of that Student Senator for the duration of the meeting during which they are serving as that Student Senator's proxy.
             (#)  To designate a proxy a Student Senator must notify the Chair of Student Senate, via e-mail, of the name of that proxy.
     #.  Powers of Student Senators:
         a.  Student Senators assume all parliamentary powers afforded them in _Robert's Rules of Order, Newly Revised_. These powers are in effect during all Student Senate meetings and during all meetings of Student Senate committees of which they are members;
@@ -123,10 +123,10 @@ A.  Student Senate shall consist of the following types of members:
 #.  Members-at-Large:
     1.  Members-at-Large may be elected as representatives of the undergraduate student body.
         a.  Any Student Senator may nominate a member of the undergraduate student body as a Member-at-Large during any regular Student Senate meeting.
-        #.  To be elected, a nominee must receive a majority vote of approval at the meeting where s/he is nominated as a Member-at-Large.
+        #.  To be elected, a nominee must receive a majority vote of approval at the meeting where they are nominated as a Member-at-Large.
         #.  There is no limit to the number of Members-at-Large that may be elected.
         #.  There is no limit to the number of times an individual may be nominated as a Member-at-Large, but a single individual may only be nominated once during a single meeting of Student Senate.
-    #.  The term of service for a Member-at-Large begins at the end of the meeting during which s/he is elected, and ends at the end of the full session for which s/he were elected to serve.
+    #.  The term of service for a Member-at-Large begins at the end of the meeting during which they are elected, and ends at the end of the full session for which they were elected to serve.
     #.  Duties of Members-at-Large:
         a.  Attend regular and special meetings of Student Senate;
         #.  Attend joint meetings of Student Senate and the Graduate Student Assembly;
@@ -168,14 +168,14 @@ A.  Student Senate shall consist of the following types of members:
     #.  A Student Senator may have absences removed from his or her record upon completion of their Engagement Hour requirements. Thereafter, one-half (1/2) absence will be removed for every additional completion of one (1) Engagement Hour. Absences may also be removed by other participation in the activities of Student Senate as deemed appropriate by the Chair of Student Senate. This participation must occur within thirty (30) days of the recorded one-half (1/2) absence.
 #.  Removal of Student Senators for Attendance Violations:
     1.  Three (3) absences from regular meetings of Student Senate or three (3) absences from regular meetings of a Student Senator's standing committee, during a single half session of Student Senate, count as grounds for the removal of that Student Senator from Student Senate.
-        a.  Should a Student Senator's standing committee assignment change during a given half session, his or her attendance record shall follow him or her to his or her new committee.
-        #.  If a Student Senator accrues two (2) absences from regular meetings of Student Senate, or two (2) absences from the standing committee to which s/he is assigned, during a single half session of Student Senate, then the Chair of Student Senate must notify that Student Senator that if s/he accrues another absence during that semester, s/he will be removed from office.
-    #.  When a Student Senator has exceeded his or her permitted absence allotment, the Chair of Student Senate is responsible for notifying that individual, via e-mail, of his or her removal from office. Upon notification, the relevant Student Senate seat is immediately declared vacant.
+        a.  Should a Student Senator's standing committee assignment change during a given half session, their attendance record shall follow them to their new committee.
+        #.  If a Student Senator accrues two (2) absences from regular meetings of Student Senate, or two (2) absences from the standing committee to which they are assigned, during a single half session of Student Senate, then the Chair of Student Senate must notify that Student Senator that if they accrue another absence during that semester, they will be removed from office.
+    #.  When a Student Senator has exceeded their permitted absence allotment, the Chair of Student Senate is responsible for notifying that individual, via e-mail, of their removal from office. Upon notification, the relevant Student Senate seat is immediately declared vacant.
 #.  Removal of Members-at-Large:
     1.  Four (4) absences from regular meetings of Student during a single half session of Student Senate count as grounds for the removal of that Member-at-Large from Student Senate.
-        a.  Should a Member-at-Large become a Student Senator during a given half session, his or her attendance record shall follow him or her to his or her new position.
-        #.  If a Member-at-Large accrues three (3) absences from regular meetings of Student Senate during a single half session of Student Senate, then the Chair of Student Senate must notify that Member-at-Large that if s/he accrues another absence during that semester, s/he will be removed from office.
-    #.  When a Member-at-Large has exceeded his or her permitted absence allotment, the Chair of Student Senate is responsible for notifying that individual, via e-mail, of his or her removal from office. The removal is immediate, upon notification.
+        a.  Should a Member-at-Large become a Student Senator during a given half session, their attendance record shall follow them to their new position.
+        #.  If a Member-at-Large accrues three (3) absences from regular meetings of Student Senate during a single half session of Student Senate, then the Chair of Student Senate must notify that Member-at-Large that if they accrue another absence during that semester, they will be removed from office.
+    #.  When a Member-at-Large has exceeded their permitted absence allotment, the Chair of Student Senate is responsible for notifying that individual, via e-mail, of their removal from office. The removal is immediate, upon notification.
     #.  A Member-at-Large may also be removed from office by way of a majority vote at a regular meeting of Student Senate.
 #.  Impeachment of a Student Senator:
     1.  A request for the impeachment of a Student Senator may be made to the Student Senate Chair by way of either:
@@ -188,7 +188,7 @@ A.  Student Senate shall consist of the following types of members:
     #.  An impeached Student Senator is not eligible to hold any Student Government position for the remainder of the full session during which they are impeached, unless they are elected to that position by the student body.
 #.  Resignation:
     1.  A Student Senator or Member-at-Large may resign from their position by submitting notice of their resignation, via e-mail, to the Chair of Student Senate. Upon notification, the relevant seat becomes vacant.
-        a.  Should the Chair of Student Senate wish to resign, s/he must submit notice of his or her resignation to all members of the Student Senate Executive Committee.
+        a.  Should the Chair of Student Senate wish to resign, they must submit notice of their resignation to all members of the Student Senate Executive Committee.
 #.  Vacant Student Senate Seats:
     1.  In the case of regular elections of Student Senate seats, the Elections Board shall serve as the facilitator of the election, as established in the _Student Body Constitution_. In the case of a vacancy throughout the current session of the Student Senate, the Student Senate Chair shall serve as the facilitator of the election. The relevant person or group facilitating this election will be referred to here on as the _facilitator of the election_.
     #.  Should a Student Senate seat become vacant, the Chair of Student Senate shall announce this vacancy, along with the deadline for receipt of petitions to fill the seat.
@@ -258,9 +258,9 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
     #.  At the regular Student Senate meeting immediately following presentation of the petition, Student Senate shall vote on removal of the official. Removal of that officer requires a two-thirds (2/3) supermajority vote of approval from the Student Senators present at that meeting.
     #.  Upon a successful vote to remove a member of the Student Senate Executive Committee from office, that office shall immediately be declared vacant.
 #.  Resignation:
-    1.  The Chair of Student Senate may resign from his or her office by submitting notice of that resignation, via e-mail, to the Student Senate Executive Committee.
+    1.  The Chair of Student Senate may resign from their office by submitting notice of that resignation, via e-mail, to the Student Senate Executive Committee.
     #.  The Student Senate Clerk, Sergeant at Arms, or any Standing Internal Committee Chair may resign from their office by submitting notice of their resignation, via e-mail, to the Chair of Student Senate.
-        a.  The Student Senate Clerk is expected to provide three (3) weeks' notice of his or her resignation.
+        a.  The Student Senate Clerk is expected to provide three (3) weeks' notice of their resignation.
 #.  Vacancy:
     1.  The Student Senate Executive Committee must notify Student Senate within three (3) days of the removal or resignation of an elected officer.
 #.  Election of Officers:
@@ -285,8 +285,8 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
         #.  Report to Student Senate the failure of a Student Senate standing committee to act upon matters assigned to it;
         #.  Schedule, set the agenda for, and preside over regular meetings of the Member-at-Large Caucus;
         #.  Preside over the Student Senator impeachment process;
-        #.  Notify any Student Senator or Member-at-Large when s/he is within one (1) absence of being removed from office;
-        #.  Notify any Student Senator or Member-at-Large when s/he is removed from their seat;
+        #.  Notify any Student Senator or Member-at-Large when they are within one (1) absence of being removed from office;
+        #.  Notify any Student Senator or Member-at-Large when they are removed from their seat;
         #.  Designate a member of Student Senate to serve as temporary Student Senate Clerk, without pay, when the regular Student Senate Clerk is unable to fill the role;
         #.  Coordinate with the Student Body Vice President for Organizations to nominate a representative of Student Senate to the Committee on Student Organizations and to the University Center Allocations Board;
     #.  __Constitutionally Assigned Duties of the Chair of Student Senate__: The following are responsibilities required of the Chair of Student Senate by the Carnegie Mellon University _Student Body Constitution_. The Chair of Student Senate is required to fulfill these duties, as described in the constitution, until such time as they are removed from that constitution.
@@ -375,7 +375,7 @@ A.  Regular Meetings:
             (#)  Voice vote
             (#)  Acclamation (unanimous consent)
         #.  The Chair of Student Senate normally determines the manner of voting. However, if a Student Senator calls for a method of voting of greater precedence for an individual question, that method must be used. If multiple requests are received, the request with the greatest precedence shall be honored.
-        #.  A Student Senator shall decline to vote, in committee or on the floor, on any matter where s/he believes that his or her voting on such a matter would be a conflict of interest.
+        #.  A Student Senator shall decline to vote, in committee or on the floor, on any matter where they believe that their voting on such a matter would be a conflict of interest.
     #.  Quorum:
         a.  Quorum for Student Senate is defined as a simple majority of the seated Student Senators.
             (i) If, at any time during a meeting of Student Senate, a question is raised by a Student Senator as to the presence of a quorum, the Student Senate Clerk must call the roll and announce the result.
