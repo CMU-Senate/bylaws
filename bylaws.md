@@ -205,6 +205,7 @@ A.  Student Senate shall consist of the following types of members:
                 (I)  If one (1) candidate for a position is permitted to address Student Senate then all candidates for that position must be permitted to address Student Senate.
             (#)  At the discretion of the Chair of Student Senate, Student Senators may be permitted to discuss the candidate(s) for each position in the absence of all candidates for that position.
                 (I)  No minutes of this discussion shall be recorded.
+<<<<<<< HEAD
         #.  Voting:
             (i)  A candidate in this election is not permitted to serve as a proxy while the election proceedings for the relevant vacant seat is taking place. As a result, a candidate cannot count toward quorum during this portion of a Student Senate meeting. However, a candidate may take on the duties of a proxy at any other point during the meeting, provided they are otherwise eligible to serve as a proxy.
             (#)  Absentee ballots are not permitted.
@@ -231,14 +232,49 @@ A.  Student Senate shall consist of the following types of members:
                 (#)  This process of counting votes, distributing surplus votes of winning candidates, and eliminating losing candidates, as described in Subsections II through VII above, is repeated until all seats are filled.
                     (A)  Should the number of remaining candidates be equal to or less than the number of remaining seats, then all those candidates who have received a higher percentage of votes than currently held by the "No Confidence" option shall win the remaining seats.
                     (#)  Should no active candidates remain after all rounds of counting votes have been completed, and the number of "No Confidence" votes does not exceed a simple majority of votes cast, then there shall be a vacancy in the remaining unfilled seats of the constituency in question.
+=======
+        #.  The election shall be carried out as specified in Article V.
+>>>>>>> stv-new-article
     #.  If no valid petitions are received by the announced deadline, the Chair of Student Senate shall begin the process again by announcing a new deadline for petitions.
 
-# Article V. Student Senate Fiscal Policy.
+# Article V. Elections Procedures.
+
+A.  Election Rules:
+    1.  These election rules shall apply for both the Spring General Election as well as Vacancy Elections during regular meetings of Student Senate.
+    #.  In the case of a vacancy election, a candidate in this election is not permitted to serve as a proxy while the election proceedings for the relevant vacant seat is taking place. As a result, a candidate cannot count toward quorum during this portion of a Student Senate meeting. However, a candidate may take on the duties of a proxy at any other point during the meeting, provided they are otherwise eligible to serve as a proxy.
+    #.  Absentee ballots are not permitted.
+    #.  Student Senate shall carry out all elections procedures in accordance with the Single Transferable Voting method in order to achieve proportional representation.
+        a.  In the case of Member-at-Large elections, voting will be carried out as specified in Article IV. 
+B.  Voting Procedures
+    1.  Each voter shall have one vote, ranking the candidates in their constituency for their vote in order of descending preference, with 1 (the first rank) representing the most preferred.
+        a.  No candidate may be ranked repeatedly, and no two candidates may be ranked equally.
+        #.  A voter may rank as many or as few candidates as they would like.
+        #.  A voter may elect to designate "No Confidence" at any rank.
+    #.  A number of votes needed to elect a candidate shall be established, and referred to as the _election threshold_. The election threshold shall be calculated using the Droop quota. For a definition of this quota, please see Appendix A to this document.
+    #.  In each round of the election, vote counting shall start with the tabulation of each voter's preferred candidate, of the candidates remaining. These remaining candidates will from here on referred to as _active candidates_.
+    #.  If there are candidates whose vote totals meet or exceed the election threshold, those candidates are considered elected. Votes exceeding the threshold are considered the candidate's _surplus votes_. If there are no remaining vacant seats, the election is complete. Otherwise, the election continues.
+    #.  For each elected candidate from subsection IV, their vote surplus shall be redistributed in the following procedure:
+        a.  The fractional value of each vote to be redistributed is calculated by dividing the number of surplus votes for the candidate by the total votes received by said candidate.
+        #.  This fractional value will then be applied to each ballot for the elected candidate, and each of these tabulated fractional ballots are transferred to the next active candidate ranked, or discarded if the ballot is contains no more active candidates. Such a ballot containing no more active candidates will then on be referred to as an _exhausted ballot_.
+        #.  Following the redistribution of surplus votes, the process of counting votes and distributing surplus votes of any winning candidates, as described in subclause 2 through 5 above, is repeated. If no surplus votes were redistributed, the election shall proceed to subsection VI below.
+    #.  The candidate with the least number of votes shall be removed from the election, and referred to from here on as an _eliminated candidate_. Each of that candidate's ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked, or discarded if the ballot is exhausted.
+        a.  If there is a tie as to the candidate with the least number of votes, the entire tied set shall be eliminated if their combined vote count is less than that of the next-highest candidate.
+        #.  If there is a tie as to the candidate with the least number of votes, and the above does not apply, the candidate with the least number of votes in the previous round shall be eliminated.
+        #.  If there is still a tie, the procedure described in subsection B. above is repeated for the next-preceding round until the tie is broken.
+        #.  If this was the first round of voting, or the above conditions do not apply in the case of a tie for the candidate to be eliminated, then the candidate in the tie with the smaller number of next-choice preferences (i.e. second-choice in the current round of counting) shall be eliminated. Should this also be a tie, this process will continue down the list of preferences until one candidate has a larger number of votes in a certain preference level.
+        #.  If at the end of these steps a break in the tie of candidate with the least number of votes cannot be broken, then the facilitator of the election shall refer to the random elimination ordering. The candidate whose AndrewID's first character appears first according to the random elimination ordering shall be eliminated from the election. If there is more than one candidate with this character appearing first in their AndrewID, the candidate eliminated will be determined by the first distinct character in their AndrewID, with the character appearing first in the random elimination ordering signaling the candidate to be eliminated. The eliminated candidate's ballots shall be redistributed among the remaining candidates, or to "No Confidence" as needed, by next active choice ranked.
+    #.  If the number of "No Confidence" votes exceeds the election threshold at any point in counting, then there shall be a vacancy in any remaining unfilled seats in the constituency in question. If not, and the "No Confidence" option has the fewest votes in any round of voting, it may be eliminated from the election, by the process described above for any candidate.
+        a.  Should the conditions of subsection 6.e. apply, then the option of "No Confidence" may not be eliminated from such a tie by the random elimination ordering.
+    #.  This process of counting votes, distributing surplus votes of winning candidates, and eliminating losing candidates, as described in subclause 2 through 7 above, is repeated until all seats are filled.
+        a.  Should the number of remaining candidates be equal to or less than the number of remaining seats, then all those candidates who have received a higher percentage of votes than currently held by the "No Confidence" option shall win the remaining seats.
+        #.  Should no active candidates remain after all rounds of counting votes have been completed, and the number of "No Confidence" votes does not exceed a simple majority of votes cast, then there shall be a vacancy in the remaining unfilled seats of the constituency in question.
+
+# Article VI. Student Senate Fiscal Policy.
 
 A.  All Student Senate financial activities are constrained by the Carnegie Mellon University _Student Government Fiscal Policy_ and the Carnegie Mellon University _Student Senate Fiscal Policy_.
 #.  Amendment to the Carnegie Mellon University _Student Senate Fiscal Policy_ must be proposed and passed in accord with the procedure set out for amendment to these bylaws.
 
-# Article VI. Officers.
+# Article VII. Officers.
 
 A.  The officers of Student Senate shall be the Student Senate Chair, the Student Senate Vice Chair (if nominated), the Chair of each Student Senate standing committee, the Sergeant at Arms, and the Student Senate Clerk.
     1.  Except for the Sergeant at Arms and the Student Senate Clerk, all officers of Student Senate must be Student Senators.
@@ -276,7 +312,7 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
             (i) If one (1) candidate for a position is permitted to address Student Senate then all candidates for that position must be permitted to address Student Senate.
         #.  At the discretion of the meeting Chair, Student Senators may be permitted to discuss the candidate(s) for each office in the absence of the candidates for that position.
             (i)  No minutes of this discussion shall be recorded.
-        #.  Voting procedures shall be followed as described in Article IV(J)(4)(c).
+        #.  General elections procedures and voting procedures shall be followed as described in Article V.
 #.  Duties and Powers of the Chair of Student Senate:
     1.  General Duties of the Chair of Student Senate:
         a.  Schedule, set the agenda for, and preside over regular meetings of Student Senate and of the Student Senate Executive Committee;
@@ -349,7 +385,7 @@ A.  The officers of Student Senate shall be the Student Senate Chair, the Studen
     #.  The position of an honorary office entitles the holder to rights that are bestowed upon Members-at-Large.
     #.  Honorary positions shall be held perpetually, unless revoked with a three-fourths (3/4) majority vote at a regular meeting of Student Senate.
 
-# Article VII. Meetings.
+# Article VIII. Meetings.
 
 A.  Regular Meetings:
     1.  Regular meetings of Student Senate must be held at least twice during each complete month of the academic year.
@@ -380,7 +416,7 @@ A.  Regular Meetings:
             (i) If, at any time during a meeting of Student Senate, a question is raised by a Student Senator as to the presence of a quorum, the Student Senate Clerk must call the roll and announce the result.
         #.  Quorum for any Student Senate standing committee, and for the Executive Committee of Student Senate, is defined as a simple majority of the members of the relevant committee.
 
-# Article VIII. The Executive Committee of Student Senate.
+# Article IX. The Executive Committee of Student Senate.
 
 A.  The Chair of Student Senate and the Chair of each Student Senate standing committee shall be a voting member of the Executive Committee of Student Senate. The Vice Chair of Student Senate shall be a non-voting member of the Executive Committee of Student Senate.
 #.  Duties of the Student Senate Executive Committee:
@@ -391,7 +427,7 @@ A.  The Chair of Student Senate and the Chair of each Student Senate standing co
     1.  Issue interpretations of these bylaws, and the Carnegie Mellon University _Student Senate Fiscal Policy_, in consultation with the Constitutional Advisor, when questions as to their interpretation arise;
     #.  Request that the Student Body Vice President for Finance and/or the Student Body Vice President for Organizations place a student organization on Financial or Recognition Probation on reasonable suspicion that the organization is in violation of these bylaws and/or the Carnegie Mellon University _Student Senate Fiscal Policy_.
 
-# Article IX. Standing Committees.
+# Article X. Standing Committees.
 
 A.  The following shall be standing committees of Student Senate:
     1.  Academic Affairs;
@@ -474,7 +510,7 @@ A.  The following shall be standing committees of Student Senate:
         #.  Educate new members on the functions and objectives of the standing committees of Student Senate;
         #.  Be available for reports and ex officio presentations as determined by the Executive Committee of Student Senate.
 
-# Article X. Student Body Directives.
+# Article XI. Student Body Directives.
 
 A.  The undergraduate student body can compel Student Senate to act on any matter by submitting a _New Issue Petition_ to any member of the Student Senate Executive Committee.
     1.  A New Issue Petition must contain the signatures, names, and Carnegie Mellon AndrewIDs of at least fifty (50) members of the undergraduate student body.
@@ -495,7 +531,7 @@ A.  The undergraduate student body can compel Student Senate to act on any matte
             (#)  If this threshold is not reached, then Student Senate must hold the referendum again, within two (2) weeks of the original referendum.
             (#)  If the threshold is not reached in the second referendum, then Student Senate is released from the requirements of the Restraining Petition.
 
-# Article XI. Amendment.
+# Article XII. Amendment.
 
 A.  To be considered for approval, an amendment to these bylaws must be presented in writing at a regular meeting of Student Senate.
 #.  Any proposed amendment to these bylaws must be put to a vote at a regular meeting of Student Senate one (1) to three (3) weeks after its initial presentation to Student Senate.
