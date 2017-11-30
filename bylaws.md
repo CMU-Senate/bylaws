@@ -413,8 +413,11 @@ A.  The following shall be standing committees of Student Senate:
 #.  Membership:
     1.  Each Student Senator shall be a regular member of at least one (1) Student Senate standing committee.
         a.  The Student Senate Chair and Vice Chair shall not be assigned to a particular standing committee, but shall be _ex officio_ members of each committee.
+        #.  The New Member Caucus shall not count towards this requirement.
     #.  Each Member-at-Large shall be a regular member of  at least one (1) Student Senate standing committee.
         a.  Members-at-Large may not be members of the Finance Committee.
+        #.  Members-at-Large may count Ad-Hoc Committees towards this requirement;
+        #.  The New Member Caucus shall not count towards this requirement.
     #.  All and only Student Senators who are members of a particular standing committee are permitted to vote on matters addressed in that committee.
     #.  The size of each standing committee shall be determined by the Chair of Student Senate, in consultation with the Chair of each standing committee.
     #.  Upon election, each Student Senator shall submit their committee assignment preferences to the Chair of Student Senate. The Chair of Student Senate shall determine standing committee assignments, in consultation with the Student Senate Executive Committee and in light of the preferences expressed by Student Senators, at the beginning of each half session of Student Senate.
