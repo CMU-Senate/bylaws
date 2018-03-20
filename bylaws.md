@@ -53,7 +53,7 @@ A.  General Duties of Student Senate:
     #.  Enact and enforce legislation aimed at accomplishing the objectives of the undergraduate student body;
     #.  Act as representatives of the undergraduate student body to staff, faculty and administration of Carnegie Mellon University;
     #.  Appropriate and approve the expenditures of all funds under direct control of Student Senate, as prescribed in the Carnegie Mellon University _Student Body Constitution_, the Carnegie Mellon University _Student Senate Fiscal Policy_, these bylaws, and the Carnegie Mellon University _Student Senate Fiscal Policy_;
-    #.  Break a tie, in any undergraduate student body election of Student Senators, by way of a majority vote at a meeting of Student Senate.
+    #.  Resolve disputes, in any undergraduate student body election of Student Senators, by way of a majority vote at a meeting of Student Senate.
 #.  __Constitutionally Assigned Duties of Student Senate__: The following are responsibilities required of Student Senate by the Carnegie Mellon University _Student Body Constitution_ and the Carnegie Mellon University _Student Government Fiscal Policy_. Student Senate is required to fulfill these duties, as described in that constitution and fiscal policy, until such time as they are removed from that constitution and fiscal policy.
     1.  Appoint a representative of Student Senate to sit on the Committee on Student Organizations;
     #.  Appoint a representative of Student Senate to sit on the Elections Board;
