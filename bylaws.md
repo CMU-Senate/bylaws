@@ -417,28 +417,47 @@ A.  The following shall be standing committees of Student Senate:
 #.  Duties of the Academic Affairs Committee:
     1.  Propose legislation concerning the academic welfare of the undergraduate student body;
     #.  Announce to Student Senate any changes or proposed changes in academic policy;
-    #.  Designate, in consultation with the Student Senate Chair, a representative to the University Academic Calendar Committee;
-    #.  Function as the liaison to the University Education Council, the Associate Provost for Academic Projects, and Enrollment Services on academic issues that affect members of the undergraduate student body;
+    #.  Designate, in consultation with the Student Senate Chair, a representative to the following committees:
+        a.  Board of Trustees Educational Affairs and Enrollment Committee;
+        #.  Faculty Senate;
+        #.  University Education Council;
+        #.  Any other relevant bodies, at the discretion of the Chair of the Academic Affairs Committee.
+    #.  Function as the liaison to the Vice Provost for Education and University Registrar on academic issues that affect members of the undergraduate student body;
+        a.  The Chair of the Academic Affairs Committee shall fix meeting times with the Vice Provost for Education at the start of every half-session.
     #.  Take responsibility for any business charged to the committee by Student Senate.
 #.  Duties of the Business Affairs Committee:
     1.  Propose legislation concerning business services at Carnegie Mellon University, as they relate to the undergraduate student body;
     #.  Announce to Student Senate any changes or proposed changes in the business services of Carnegie Mellon University;
-    #.  Function as liaison to departments and individuals responsible for business services at Carnegie Mellon University;
+    #.  Designate, in consultation with the Student Senate Chair, a representative to the following committees:
+        a.  Dining Student Advisory Council;
+        #.  Parking and Transportation Advisory Committee;
+        #.  Facilities Management Services Student Advisory Committee;
+        #.  Any other relevant bodies, at the discretion of the Chair of the Business Affairs Committee.
+    #.  Function as liaison to the Vice President for Operations on departments and individuals responsible for business services at Carnegie Mellon University;
+        a.  The Chair of the Business Affairs Committee shall fix meeting times with the Vice President for Operations at the start of every half-session.
     #.  Take responsibility for any business charged to the committee by Student Senate.
 #.  Duties of the Campus Life Committee:
     1.  Propose legislation concerning the campus environment as it relates to the undergraduate student body;
     #.  Host events that benefit the undergraduate student body;
     #.  Announce to Student Senate any changes or proposed changes in auxiliary services;
-    #.  Function as the liaison to the Division of Student Affairs;
+    #.  Designate, in consultation with the Student Senate Chair, a representative to the following committees:
+        a.  Housing Student Advisory Council;
+        #.  Bike Advisory Committee;
+        #.  Design Review Committee;
+        #.  Any other relevant bodies, at the discretion of the Chair of the Campus Life Committee.
+    #.  Function as the liaison to the Vice President for Student Affairs on issues that affect members of the undergraduate student body;
+        a.  The Chair of the Campus Life Committee shall fix meetings time with the Vice President for Student Affairs at the start of every half-session.
     #.  Maintain Student Senate campus policies;
     #.  Review and suggest amendments to the policies contained in the Student Handbook, and act as the liaison between Student Senate and Faculty Senate on university policy amendments passed by Student Senate;
+        a.  A report containing all recommendations for improvement shall be presented at a regular meeting of Student Senate at least every half session.
     #.  Take responsibility for any business charged to the committee by Student Senate.
 #.  Duties of the Communications Committee:
     1.  Publicize all Student Senate activities, including elections and Student Senate vacancies;
     #.  Plan and coordinate Student Senate involvement in special events such as the Activities Fair, Homecoming, and Spring Carnival;
     #.  Maintain a dialogue with constituents and report such communication to Student Senate;
     #.  Promote awareness of Student Senate on campus;
-    #.  Act as liaison to campus media;
+    #.  Function as a liaison to the Vice President for Marketing and Communications;
+        a.  The Chair of the Communications Committee shall fix meeting times with the Vice President for Marketing and Communications at the start of every half-session.
     #.  Maintain and update the Student Senate website, and other online presence;
     #.  Take responsibility for any business charged to the committee by Student Senate.
 #.  Duties of the Finance Committee:
@@ -446,6 +465,10 @@ A.  The following shall be standing committees of Student Senate:
     #.  Oversee the process of allocating Student Senate funds to student organizations, as described in the Carnegie Mellon University _Student Senate Fiscal Policy_;
     #.  Maintain the Carnegie Mellon University _Student Senate Fiscal Policy_;
     #.  Be familiar with the restrictions on Student Senate spending described in the Carnegie Mellon University _Student Government Fiscal Policy_;
+    #.  Function as a liaison to the Vice President for Finance;
+        a.  The Chair of the Finance Committee shall fix meeting times with the Vice President for Finance at the start of every half-session.
+    #.  Function as a liaison to the Graduate Student Assembly Vice President for Finance;
+        a.  The Chair of the Finance Committee shall fix meeting times with the Graduate Student Assembly Vice President for Finance at their discretion.
     #.  Take responsibility for any business charged to the committee by Student Senate.
 #.  Powers of the Chair of the Finance Committee:
     1.  Review all budgetary categories of any student organization that receives funds from Student Senate;
