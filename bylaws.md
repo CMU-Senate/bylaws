@@ -401,7 +401,8 @@ A.  The Chair of Student Senate and the Chair of each Student Senate standing co
 # Article X. Standing Committees.
 
 A.  The following shall be standing committees of Student Senate:
-    1.  Academic Affairs;
+    1.  Advocacy;
+    #.  Academic Affairs;
     #.  Business Affairs;
     #.  Campus Life;
     #.  Communications;
@@ -424,6 +425,13 @@ A.  The following shall be standing committees of Student Senate:
     #.  Quorum for a standing committee shall be a simple majority of the Student Senators who are members of that standing committee.
         a.  This calculation does not include _ex officio_ members of the committee who are also Student Senators.
     #.  All business before a standing committee at the end of a half session shall be resumed by the same standing committee at the commencement of the next half session.
+#.  Duties of the Advocacy Committee:
+    1.  Propose legislation and host events concerning diversity and inclusion within the student body;
+    #.  Announce to the Student Senate any changes or proposed changes in  Center for Student Diversity and Inclusion Initiatives;
+    #.  Function as a liaison to the Center for Student Diversity and Inclusion and all other departments and individuals involved in creating or maintaining diversity and inclusivity policies;
+        a.  The Chair of the Advocacy Committee shall fix meetings time with at least one member of staff of the Center for Inclusion and Diversity at the start of every half-session.
+    #.  Maintain a dialogue with organizations relating to multicultural or social issues;
+    #.  Take responsibility for any business charged to the committee by Student Senate.
 #.  Duties of the Academic Affairs Committee:
     1.  Propose legislation concerning the academic welfare of the undergraduate student body;
     #.  Announce to Student Senate any changes or proposed changes in academic policy;
@@ -447,8 +455,7 @@ A.  The following shall be standing committees of Student Senate:
         a.  The Chair of the Business Affairs Committee shall fix meeting times with the Vice President for Operations at the start of every half-session.
     #.  Take responsibility for any business charged to the committee by Student Senate.
 #.  Duties of the Campus Life Committee:
-    1.  Propose legislation concerning the campus environment as it relates to the undergraduate student body;
-    #.  Host events that benefit the undergraduate student body;
+    1.  Propose legislation and hold events concerning campus spirit, engagement, wellness, and relations with the Pittsburgh community;
     #.  Announce to Student Senate any changes or proposed changes in auxiliary services;
     #.  Designate, in consultation with the Student Senate Chair, a representative to the following committees:
         a.  Housing Student Advisory Council;
